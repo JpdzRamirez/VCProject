@@ -1,9 +1,6 @@
 # Aprendizaje
-# Este repositorio está destinado a realizar practicas en mis estudios de programación y todos los proyectos
-# Título del Proyecto
-
-
-
+_Este repositorio está destinado a realizar practicas en mis estudios de programación y todos los proyectos_
+#                       PROYECTO SOFTWARE DEVELOPER
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
@@ -97,7 +94,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 * **Jeremy Ivan Pedraza Hernandez** - *Creador de contenido* - [JpdzRamirez](https://github.com/JpdzRamirez)
 
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/users/JpdzRamirez/projects/1) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
