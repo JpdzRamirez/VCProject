@@ -81,7 +81,7 @@ _Herramientas para crear el proyecto_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/JpdzRamirez/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
 
@@ -105,10 +105,10 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* Mis agradecimientos para todos los contribuyentes y los profesores que han suministrado conocimiento en mi formación 📢
+* Invito una cerveza 🍺 o un café ☕ a quien me contribuya con conocimientos en git y reactjs. 
+* Gracias a todos 🤓.
+
 
 
 
