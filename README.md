@@ -3,6 +3,7 @@
 # Título del Proyecto
 
 
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
@@ -56,9 +57,8 @@ Comandos adicionales para manejo de VCS Git
 https://www.hostinger.co/tutoriales/comandos-de-git
 
 ```
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-
+```
 ### Y las pruebas de estilo de codificación ⌨️
 
 _Pruebas debuggin _
