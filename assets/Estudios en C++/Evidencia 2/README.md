@@ -1,4 +1,4 @@
- ## Taller: Instalación del entorno de desarrollo y explicación de ##código 🤓
+ ## Taller: Instalación del entorno de desarrollo y explicación de código 🤓
  _Actividad 2 – Evidencia 1: Taller: Instalación del entorno de desarrollo y explicación de código._
 _En la presente actividad hemos configurado el editor de texto Visual Code configurado para WSL y junto a su compilador C/C++_
  _Se ha explicado la funcion de cada parametro y se sube evidencia fotografica junto al archivo .cppp en el repositorio remoto Git_ 
