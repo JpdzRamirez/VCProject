@@ -16,7 +16,9 @@ _Se realizan las siguientes aplicaciones🔽_
 * ◻️ 1 Que solicite al usuario un número entero y como resultado muestre la tabla de multiplicar de dicho
 número.
 * ◻️ 2 Como segundo ejercicio usted debe crear una aplicación para hallar la aceleración de un vehículo. Teniendo en cuenta que la formula para hallar la aceleración es:
+
 > 𝑎 = (𝑣𝑒𝑙𝑜𝑐𝑖𝑑𝑎𝑑 𝑓𝑖𝑛𝑎𝑙 − 𝑣𝑒𝑙𝑜𝑐𝑖𝑑𝑎𝑑 𝑖𝑛𝑖𝑐𝑖𝑎𝑙)/𝑡𝑖𝑒𝑚𝑝
+
 [Evidencia 1_2  Ejercicios](https://user-images.githubusercontent.com/66846214/112243012-d07fb200-8c1a-11eb-8ce0-27b83c18ac2e.png)
 >Tabla de multiplicar
 ![Evidencia1_2_1 Ejercicios](https://user-images.githubusercontent.com/66846214/112243022-d70e2980-8c1a-11eb-8df2-bdac681f1a5a.png)
