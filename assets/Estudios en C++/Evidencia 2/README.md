@@ -19,7 +19,7 @@ número.
 
 > 𝑎 = (𝑣𝑒𝑙𝑜𝑐𝑖𝑑𝑎𝑑 𝑓𝑖𝑛𝑎𝑙 − 𝑣𝑒𝑙𝑜𝑐𝑖𝑑𝑎𝑑 𝑖𝑛𝑖𝑐𝑖𝑎𝑙)/𝑡𝑖𝑒𝑚𝑝
 
-[Evidencia 1_2  Ejercicios](https://user-images.githubusercontent.com/66846214/112243012-d07fb200-8c1a-11eb-8ce0-27b83c18ac2e.png)
+![Evidencia 1_2  Ejercicios](https://user-images.githubusercontent.com/66846214/112243012-d07fb200-8c1a-11eb-8ce0-27b83c18ac2e.png)
 >Tabla de multiplicar
 ![Evidencia1_2_1 Ejercicios](https://user-images.githubusercontent.com/66846214/112243022-d70e2980-8c1a-11eb-8df2-bdac681f1a5a.png)
 > Calculo de Aceleración
