@@ -30,9 +30,7 @@ int main()
        for (size_t i = 0; i < count; i++)
     {
         cout << i <<" x "<< a << " = " << a*i<< endl;
-        
     }
-
     cout<<"Pulse ENTER para continuar volver al MENU"<<endl;
     goto MENU;
         break;
@@ -54,7 +52,6 @@ int main()
     }
 
     }
-
 system("pause");
 return EXIT_SUCCESS;
 }
