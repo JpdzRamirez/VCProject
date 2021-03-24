@@ -23,8 +23,8 @@ int a, b;  // Se decaran las variables enteras para ingresar los numeros utiliza
  cout <<"La division de los numeros es: "<< a/b <<endl;
  cout <<"El residuo es: "<< a%b <<endl;
 
- system("pause"); // Se genera un apausa para evitar que finalice el programa hasta generar la orden
+system("PAUSE");
+// Se genera una pausa para evitar que finalice el programa hasta generar la orden
  return EXIT_SUCCESS;
-
 
 }
