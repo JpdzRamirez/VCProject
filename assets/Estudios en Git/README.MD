@@ -1,0 +1,1 @@
+#       Recopilatirio e instrucciones para manejo de git
