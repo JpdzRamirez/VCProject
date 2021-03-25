@@ -1,5 +1,5 @@
 # Aprendizaje
-_Este repositorio está destinado a realizar practicas en mis estudios de programación y todos los proyectos_
+_Este repositorio está destinado a realizar practicas en mis estudios de programación y proyectos_
 #                       PROYECTO SOFTWARE DEVELOPER
 ## Comenzando 🚀
 
@@ -15,10 +15,10 @@ _Necesitas instalar el software y como instalarlas_
 ```
 Windows Subsystem for Linux
 Entorno simulado de linux en windows WSL
-CMD-- winver
-Actualizar windows a la versión 2004 19041
+CMD-- winver // Para verificar version de windows
+Se debe contar con una version minima de v2004  compilación 19041
 https://www.microsoft.com/es-es/software-download/windows10
-Instalar WSL (ABRIR Windows Powershell)
+Instalar WSL (_ABRIR Windows Powershell_)
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 Activar EL wsl
