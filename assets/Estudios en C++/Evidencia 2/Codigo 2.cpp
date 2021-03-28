@@ -5,8 +5,6 @@ int main()
 {   
     int piv;
     double a,count,f,operacion;
-    
-        
     MENU:
     cout<<"*************** MENU *****************"<<endl;
     cout<<"Ingrese numero para escojer la opcion :"<<endl;
@@ -50,7 +48,6 @@ int main()
     goto MENU;
         break;
     }
-
     }
 system("pause");
 return EXIT_SUCCESS;
