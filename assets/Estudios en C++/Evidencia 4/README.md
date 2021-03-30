@@ -4,7 +4,7 @@
 <p align="center">
   <img width="200px" src="https://www.codesdope.com/staticroot/images/cs/l2.gif"/> 
 </p>
-
+### Implementaciones adicionales; Programación orientada a objetos , punteros y asignación dinamica de punteros
 ### Actividad 4 – Evidencia 1: Taller: Implementación de las sentencias de repetición.
 
 <p style=»text-align: justify;> Teniendo en cuenta lo anterior y el material de formación, analice la siguiente
