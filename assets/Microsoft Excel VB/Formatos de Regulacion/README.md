@@ -1,7 +1,7 @@
 # Codigo
 
 ```
-Attribute VB_Name = "M�dulo1"
+Attribute VB_Name = "Modulo1"
  '          .'  '.
  '                _.-'/  |  \
   '  ,        _.-"  ,|  /  0 `-.

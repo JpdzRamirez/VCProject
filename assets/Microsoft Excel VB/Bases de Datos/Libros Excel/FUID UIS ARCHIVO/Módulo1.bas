@@ -1,4 +1,4 @@
-Attribute VB_Name = "Módulo1"
+Attribute VB_Name = "Mï¿½dulo1"
 Sub BotonBusqueda()
         ' VARIABLES DE BUSQUEDA
     Dim dato As String
@@ -9,7 +9,7 @@ Sub BotonBusqueda()
     Dim pivote As Integer
     Dim fila As Integer
     Dim fila2 As Integer
-    Dim variable, variable2 As Integer
+    Dim variable, variable2 As Integergit add
     Dim MatrizCon As Integer
     ' VARIABLE DE GUARDADO
     Dim inc, cDato, nDato As String
@@ -24,7 +24,7 @@ Sub BotonBusqueda()
     iniciar = 0
     llave = 0
     f2 = 12355
-    ' CICLO ITERATIVO N VECES HASTA QUE LA PILA ESTE VACÍA
+    ' CICLO ITERATIVO N VECES HASTA QUE LA PILA ESTE VACï¿½A
     
     Do While Application.Workbooks("FUID COMPLETO.xlsm").Worksheets("BUSQUEDA").Cells(fila, "C").Value <> ""
         dato = Application.Workbooks("FUID COMPLETO.xlsm").Worksheets("BUSQUEDA").Cells(fila, "C").Value
