@@ -24,7 +24,6 @@ public:
     void calcularPromedio(float valor);
     ~promedio();
 
-
 private:
     
     float vectorNotas[50];
