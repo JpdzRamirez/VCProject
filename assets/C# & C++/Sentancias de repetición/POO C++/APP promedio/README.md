@@ -21,7 +21,6 @@ enviar por la opción. </p>
 ## Archivos de origen // Codigo principal MAIN.cpp
 
 ```
-
 #include <iostream>
 #include <stdlib.h>
 #include <cstdlib>
@@ -35,31 +34,55 @@ using namespace std;
 int main() {
 
 	// INDICAMOS EL TAMAÑO DEL ARREGLO
-	int entrada;
-	float sumador,p;
-	promedio Resultados;
+	int entrada, llave,indice;
+	float sumador,p; 
+	char respuesta;
 
-	sumador = NULL;
 
-	cout << " Cunatas notas ingresará ? (Digite el numero)" << endl;
+	llave = NULL;
+	indice = 0;
+	sumador = 0;
+	respuesta = NULL;
+
+	cout << "Ingrese el numero de estudiantes : " << endl;
 	cin >> entrada;
-	Resultados.setvectorNotas(entrada);
-	
+	promedio* lista = new promedio[entrada];
 
-	for (int i = 1; i <= Resultados.getNotas(); i++)
+	do
 	{
-		cout << "Ingrese la nota: " << i << " " << endl;
-		cin >> p;
-		Resultados.valoresVectorNotas(i,p);  // Agregamos notas en el vector
-		sumador += p;
-	}
-	
-	cout << "El promedio de las notas es: " << Resultados.calcularPromedio(sumador) << endl;
+		p = NULL;
+		cout << " Cunatas notas se ingresa ? (Digite el numero)" << endl;
+		cin >> entrada;
+		lista[indice].setvectorNotas(entrada);
+		for (int i = 1; i <= lista[indice].getNotas(); i++)
+		{
+			cout << "Ingrese la nota: " << i << " " << endl;
+			cin >> p;
+			lista[indice].valoresVectorNotas(i,p);
+			sumador += p;
+		}
 
+		cout << "El promedio de las notas es: " << lista[indice].calcularPromedio(sumador) << endl; 
+
+		cout << "Desea calcular otro promedio? <y/n> " << endl;
+		cin >> respuesta;
+
+		if (respuesta == 110)
+		{
+			llave = 1;
+			break;
+		}
+		else
+		{
+			indice++;
+		}
+	} while (llave != 1);
+
+
+	lista->~promedio; // Limpiamos la memoria 
 	system("PAUSE");
 	return EXIT_SUCCESS;
 }
-
 
 ```
 
@@ -121,12 +144,13 @@ float promedio::calcularPromedio(float valor)
 	return suPromedio;
 }
 
+
 ```
 
 ## Archivos de cabecera // Declaración de la clase promedio.h
 
 ```
-#pragma once
+
 class promedio
 {
 public:
@@ -147,4 +171,5 @@ private:
 
 
 };
+
 ```
