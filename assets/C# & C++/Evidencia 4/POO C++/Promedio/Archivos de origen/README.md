@@ -8,6 +8,8 @@
 <H1 align="center"> Implementaciones adicionales; Programación orientada a objetos , punteros y asignación dinamica de punteros</H1>
 
 ## Actividad 4 – Evidencia 1: Taller: Implementación de las sentencias de repetición.
+## Actividad 4 – Evidencia 2: Estudio de caso: Implementación de sentencias de repetición 
+
 
 <p style=»text-align: justify;> Teniendo en cuenta lo anterior y el material de formación, analice la siguiente
 situación y elija la estructura de repetición que más se ajuste a la necesidad: realice una
@@ -148,4 +150,4 @@ private:
 
 };
 ```
-## Actividad 4 – Evidencia 2: Estudio de caso: Implementación de sentencias de repetición 
+
