@@ -11,35 +11,52 @@ using namespace std;
 int main() {
 
 	// INDICAMOS EL TAMAÑO DEL ARREGLO
-	int entrada, llave;
-	float sumador,p;
-	promedio Resultados;
-	llave=0;
-	sumador = NULL;
+	int entrada, llave,indice;
+	float sumador,p; 
+	char respuesta;
+
+
+	llave = NULL;
+	indice = 0;
+	sumador = 0;
+	respuesta = NULL;
+
+	cout << "Ingrese el numero de estudiantes : " << endl;
+	cin >> entrada;
+	promedio* lista = new promedio[entrada];
 
 	do
 	{
-		cout << " Cunatas notas ingresará ? (Digite el numero)" << endl;
-	cin >> entrada;
-	Resultados.setvectorNotas(entrada);
-	
+		p = NULL;
+		cout << " Cunatas notas se ingresa ? (Digite el numero)" << endl;
+		cin >> entrada;
+		lista[indice].setvectorNotas(entrada);
+		for (int i = 1; i <= lista[indice].getNotas(); i++)
+		{
+			cout << "Ingrese la nota: " << i << " " << endl;
+			cin >> p;
+			lista[indice].valoresVectorNotas(i,p);
+			sumador += p;
+		}
 
-	for (int i = 1; i <= Resultados.getNotas(); i++)
-	{
-		cout << "Ingrese la nota: " << i << " " << endl;
-		cin >> p;
-		Resultados.valoresVectorNotas(i,p);  // Agregamos notas en el vector
-		sumador += p;
-	}
-	
-	cout << "El promedio de las notas es: " << Resultados.calcularPromedio(sumador) << endl;
+		cout << "El promedio de las notas es: " << lista[indice].calcularPromedio(sumador) << endl; 
 
-	cout<< "Desea calcular otro promedio? "<< endl;
+		cout << "Desea calcular otro promedio? <y/n> " << endl;
+		cin >> respuesta;
 
-	} while (llave!=1);
-	
-	
+		if (respuesta == 110)
+		{
+			llave = 1;
+			break;
+		}
+		else
+		{
+			indice++;
+		}
+	} while (llave != 1);
 
+
+	lista->~promedio; // Limpiamos la memoria 
 	system("PAUSE");
 	return EXIT_SUCCESS;
 }
