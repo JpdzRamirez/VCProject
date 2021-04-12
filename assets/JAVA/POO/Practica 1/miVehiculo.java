@@ -15,7 +15,7 @@ public class miVehiculo {
 	
 	public String getInformacionMarca(){
 		
-		return marca;
+		return marca; 
 	
 	}
 	public String getInformacionModelo(){
