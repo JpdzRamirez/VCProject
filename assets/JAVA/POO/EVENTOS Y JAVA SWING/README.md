@@ -1,4 +1,5 @@
 Calculadora
+![resultado 2](https://user-images.githubusercontent.com/66846214/115805428-9258e800-a3aa-11eb-89ac-ba926cb12424.png)
 
 ```
 package paneles;
