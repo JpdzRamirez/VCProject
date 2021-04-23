@@ -1,5 +1,6 @@
 Calculadora
-´´
+
+```
 package paneles;
 
 import java.util.InputMismatchException;
@@ -222,3 +223,5 @@ public class pnlHerramientas extends javax.swing.JPanel {
     // End of variables declaration                   
 }
 ´´
+
+```
