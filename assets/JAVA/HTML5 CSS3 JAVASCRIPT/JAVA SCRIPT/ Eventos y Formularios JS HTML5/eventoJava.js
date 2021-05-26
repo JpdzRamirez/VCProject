@@ -1,10 +1,12 @@
 var d=document.getElementById("Tablero");
 var lienzoT=d.getContext("2d");
-varvariable;
+
+
 var x=150;
 var y=150;
-alert("variable")
-document.addEventListener("keyup",dibujarConTeclado);
+
+
+document.addEventListener("keydown",dibujarConTeclado);
 
 var teclas={
     UP: 38,
@@ -21,7 +23,7 @@ dibujarLinea("Red",149,149,151,151,lienzoT);
 function dibujarConTeclado(eventoJava){
     
     var colorS="Brown";
-    var movimiento=10;
+    var movimiento=3;
     if(eventoJava.keyCode==teclas.UP){
 
         dibujarLinea(colorS, x,y,x,y-movimiento,lienzoT);
