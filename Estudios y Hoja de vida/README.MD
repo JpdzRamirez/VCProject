@@ -1,7 +1,9 @@
+![Certificado Prework-1](https://user-images.githubusercontent.com/66846214/119885492-873c2f00-bef7-11eb-80e8-59ea18922df6.jpg)
 
 
 
 <H1 align="Center">  Programming studies <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="35px">   <br><img src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="100px"> </H1> 
+
 
 
    <br>
@@ -17,7 +19,7 @@
    <tbody>
    <tr>
 
-<th scope="row">RESUME</th>
+<th scope="row">Resume</th>
    <td>
       <details>
         <summary>CV Resume</summary>
@@ -29,19 +31,28 @@
 </tr>
 <tr>
 
-<th scope="row">Curso de Prework WSL for Windows</th>
+<th scope="row">Pre-Work WSL Course for Windows</th>
    <td>
        <details>
         <summary>Prework WSL, GitHub and Visual Code</summary>
         <p align="center" id="PreWork_1">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119884033-d3866f80-bef5-11eb-8ec0-9dc631cacca8.jpg"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119885125-0715c980-bef7-11eb-8398-f9da592a16df.jpg"> <br>
       </p>
       </details>
    </td>
    </tr>
-      <tr>
-      <th scope="row">Tipo de elemento</th>
-      <td>Bloque</td>
+      
+  <tr>
+      <th scope="row">Pre-Work WSL Course for MAC-OS</th>
+      <td>
+         <details>
+        <summary>Prework WSL, GitHub and Visual Code</summary>
+        <p align="center" id="PreWork_1">
+        <img width="800"  src="
+https://user-images.githubusercontent.com/66846214/119885492-873c2f00-bef7-11eb-80e8-59ea18922df6.jpg"> <br>
+      </p>
+      </details>
+     </td>
       </tr>
    <tr>
 <th scope="row">Descripción</th>
