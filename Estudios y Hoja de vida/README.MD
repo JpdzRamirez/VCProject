@@ -1,5 +1,6 @@
 
-<H1 align="Center">  HOJA DE VIDA Y ESTUDIOS </H1>
+
+<H4 align="Center">  HOJA DE VIDA Y ESTUDIOS </H1>
 
 
 <p align="center">
