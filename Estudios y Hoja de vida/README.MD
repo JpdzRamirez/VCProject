@@ -15,7 +15,7 @@
 <tbody>
 <tr>
 <th scope="row">Hoja de Vida</th>
-<td><a href="Hoja_Vida">CV_RESUME</a>, <a href="/libros/xhtml/capitulo-2/etiquetas-y-atributos#atributos-para-internacionalizacion">internacionalización</a> y <a href="/libros/xhtml/capitulo-2/etiquetas-y-atributos#atributos-de-eventos">eventos</a></td>
+<td><a href="#Hoja_Vida">CV_RESUME</a>, <a href="/libros/xhtml/capitulo-2/etiquetas-y-atributos#atributos-para-internacionalizacion">internacionalización</a> y <a href="/libros/xhtml/capitulo-2/etiquetas-y-atributos#atributos-de-eventos">eventos</a></td>
 </tr>
 <tr>
 <th scope="row">Atributos propios</th>
