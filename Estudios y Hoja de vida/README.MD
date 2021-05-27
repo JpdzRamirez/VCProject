@@ -1,42 +1,55 @@
 
 
-<H4 align="Center">  HOJA DE VIDA Y ESTUDIOS </H1> 
+
+<H1 align="Center">  Programming studies <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="35px">   <br><img src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="100px"> </H1> 
 
 
    <br>
-<div class="table" id="Tabla_indice_estudios">
-    <table class="property" summary="Definición y propiedades de la etiqueta table de XHTML">
+<div class="table" id="Tabla_indice_estudios" >
+    <table align="center" class="property" summary="All Stadys">
     <thead>
-<tr>
-    <th scope="row">Certificado</th>
-    <td align="center"><strong class="title">Referencia de Certificado</strong></td>
+       
+   <tr>
+       <th scope="row">Certificates</th>
+       <td align="center"><strong class="title">References</strong></td>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+
+<th scope="row">RESUME</th>
+   <td>
+      <details>
+        <summary>CV Resume</summary>
+        <p align="center" id="Hoja_Vida">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119734712-f99e0800-be40-11eb-997f-8c67a5f7ba88.jpg"> <br>
+      </p>
+      </details>
+   </td>
 </tr>
-</thead>
-<tbody>
 <tr>
-<th scope="row">Hoja de Vida</th>
-<td><a href="#Hoja_Vida">CV_RESUME</a>, <a href="/libros/xhtml/capitulo-2/etiquetas-y-atributos#atributos-para-internacionalizacion">internacionalización</a> y <a href="/libros/xhtml/capitulo-2/etiquetas-y-atributos#atributos-de-eventos">eventos</a></td>
-</tr>
-<tr>
-<th scope="row">Atributos propios</th>
-<td><ul><li><p><code>summary = "texto"</code> - Permite describir el contenido de la tabla (lo utilizan los buscadores y las personas discapacitadas)</p></li></ul></td>
-</tr>
-<tr>
-<th scope="row">Tipo de elemento</th>
-<td>Bloque</td>
-</tr>
-<tr>
+
+<th scope="row">Curso de Prework WSL for Windows</th>
+   <td>
+       <details>
+        <summary>Prework WSL, GitHub and Visual Code</summary>
+        <p align="center" id="PreWork_1">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119884033-d3866f80-bef5-11eb-8ec0-9dc631cacca8.jpg"> <br>
+      </p>
+      </details>
+   </td>
+   </tr>
+      <tr>
+      <th scope="row">Tipo de elemento</th>
+      <td>Bloque</td>
+      </tr>
+   <tr>
 <th scope="row">Descripción</th>
 <td>Se emplea para definir tablas de datos</td>
 </tr>
 </tbody>
 </table>
 </div>
-
-<p align="center" id="Hoja_Vida">
-  <img width="800"  src="https://user-images.githubusercontent.com/66846214/119734712-f99e0800-be40-11eb-997f-8c67a5f7ba88.jpg"> <br>
-  
-</p>
 
 
 
