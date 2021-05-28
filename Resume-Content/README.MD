@@ -104,6 +104,17 @@
       </td>
 </tr>    
    
+
+   <th scope="row"> Webinar about Front End Web Developer</th>
+   <td>
+  <details>
+        <summary>Webinar .Front End Web </summary>
+        <p align="center" id="Visual_CodeT">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/120033967-f716ec00-bfc1-11eb-9211-2929b8482de8.png"> <br>
+      </p>
+      </details>
+      </td>
+</tr>    
 </tbody>
 </table>
 </div>
