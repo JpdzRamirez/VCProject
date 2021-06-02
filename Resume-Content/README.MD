@@ -126,7 +126,7 @@
     <table align="center" class="property" summary="All Stadys">
   
   
-    <thead>
+   
        
    <tr>
        <th scope="row">Certificates</th>
