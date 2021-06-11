@@ -354,3 +354,41 @@
 </tbody>
 </table>
 </div>
+
+<H1 align="Center"> Professional Studies 
+ <img src="https://media.giphy.com/media/UOdoMz3baCENO/giphy.gif" width="75px"><br>
+ <img src="https://static.wixstatic.com/media/6f12b8_56dfd62a41b049ef892a4c0ee6a7e39d~mv2.gif" width="400px"> </H1> 
+
+<div class="table" id="Index_Experience" >
+    <table align="center" class="property" summary="All Stadys">
+  
+  
+   
+       
+   <tr>
+       <th scope="row">Certificates</th>
+       <td align="center"><strong class="title">References</strong></td>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+<th scope="row">Industrial University of Santander</th>
+   <td>
+      <details>
+        <summary>Industrial engineering <strong> 6 Semesters Formation</summary>
+        <p align="center" id="Work_1">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/121739134-cefab300-cac0-11eb-9d8b-6a36880c252f.png"> <br>
+      </p>
+      </details>
+   </td>
+</tr>
+<tr>
+
+
+
+
+</tbody>
+</table>
+</div>
+
+
