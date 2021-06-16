@@ -9,17 +9,16 @@ public HolaMundo(){ // Se crea clase Hola mundo
 pantalla = Display.getDisplay(this); // se inicializa las variables
 formulario = new Form(“Hola Mundo”);
 }
-public void startApp(){ // Se inicializa la APP
+public void startApp(){ // Se inicializa la APP y se pasa a estado activo
 pantalla.setCurrent(formulario);
 }
 public void pauseApp(){ // se define metodo pausa para 
 }
-public void destroyApp(boolean unconditional){
+public void destroyApp(boolean unconditional){ // se inicia el estado de DESTRUIDO y se limpia la pantalla y el item de impresion
 pantalla = null;
 formulario = null;
 notifyDestroyed();
 }
-
 
 
 }
