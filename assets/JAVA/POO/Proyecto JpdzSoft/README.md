@@ -7,7 +7,12 @@
 
 <br>
 
-<div>
+>_Conceptos aplicados de colectores_
+
+<img align="center" alt="Jeremy´s JpdzSoft" width="700px" src="https://user-images.githubusercontent.com/66846214/122490384-7edf8d00-cfa7-11eb-93a6-587f5adf8e56.png" /></a>
+
+
+
 
 <img align="left" src="https://user-images.githubusercontent.com/66846214/122216458-0c20c580-ce72-11eb-9ee9-318aa14ae654.gif" width="400px">
 </div>
