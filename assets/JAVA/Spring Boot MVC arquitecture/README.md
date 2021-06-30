@@ -53,11 +53,11 @@ logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 <img   width="600" src="https://user-images.githubusercontent.com/66846214/124003436-8d14ac80-d99c-11eb-8d03-5096166d3901.png">
 </div>
 
-### Inyectar dependencias
+### Inyectar dependencias y sincronizar MYSQL
 #### Conocimientos Aplicados
 ✅  @Autowired <br>
 ✅  public interface IPersonaDao extends CrudRepository<Persona, Long> <br>
-✅  GENERAR LLAVE PRIMARIA PARA MAPEAR BASE DEDATOS CON LA CLASE PERSONA <br>
+✅  Genera base de datos para el mapeo de la lista de personas desde MYSQL <br>
 
 ### TEST
 
@@ -66,5 +66,10 @@ logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 </div>
 
 
+### Creación de Capa de Servicios
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/66846214/124041792-31164c00-d9cd-11eb-9492-cd277c194335.png">
+</div>
 
 
