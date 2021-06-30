@@ -7,8 +7,8 @@
 </div>
 
 ### Conocimientos Aplicados
-✅  Compartir informacion con Spring MVC y thymeleaf
-✅  Crear Clases y Listas desde .domain
-✅  Implementacion de MYSQL Server y WorkBench
-✅  Crear Base de datos MYSQL
+✅  Compartir informacion con Spring MVC y thymeleaf <br>
+✅  Crear Clases y Listas desde .domain <br>
+✅  Implementacion de MYSQL Server y WorkBench <br>
+✅  Crear Base de datos MYSQL <br>
   
