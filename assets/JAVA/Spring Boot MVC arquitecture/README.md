@@ -53,3 +53,18 @@ logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 <img   width="600" src="https://user-images.githubusercontent.com/66846214/124003436-8d14ac80-d99c-11eb-8d03-5096166d3901.png">
 </div>
 
+### Inyectar dependencias
+#### Conocimientos Aplicados
+✅  @Autowired <br>
+✅  public interface IPersonaDao extends CrudRepository<Persona, Long> <br>
+✅  GENERAR LLAVE PRIMARIA PARA MAPEAR BASE DEDATOS CON LA CLASE PERSONA <br>
+
+### TEST
+
+<div align="center">
+<img   width="600" src="https://user-images.githubusercontent.com/66846214/124010044-efbd7680-d9a3-11eb-8fb7-7aa968be2872.gif">
+</div>
+
+
+
+
