@@ -13,7 +13,17 @@
 ✅  Crear Base de datos MYSQL <br>
   
   ## MYSQL Integración
-<div align="leftr">
-<img   width="400" src="https://user-images.githubusercontent.com/66846214/123996661-2a6be280-d995-11eb-9541-e49f99c823b5.png">
+<div align="left">
+<img   width="1000" src="https://user-images.githubusercontent.com/66846214/123996661-2a6be280-d995-11eb-9541-e49f99c823b5.png">
+</div>
+
+#### Configuracion
+
+> Holst: localhost, Port: 3306 <br>
+> JDBC URL: jdbc:mysql://localhost:3306/test?zeroDateTimeBehavior=CONVERT_TO_NULL&useSSL=false&useTimezone=true&serverTimezone=UTC
+<br>
+
+<div align="left">
+<img   width="600" src="https://user-images.githubusercontent.com/66846214/123998384-0f01d700-d997-11eb-8d62-ddbc09dae69d.png">
 </div>
 
