@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package paneles;
-
+//JpdzSoftware only list
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ItemEvent;
