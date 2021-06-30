@@ -27,3 +27,8 @@
 <img   width="600" src="https://user-images.githubusercontent.com/66846214/123998384-0f01d700-d997-11eb-8d62-ddbc09dae69d.png">
 </div>
 
+### Conectar a base de datos MYSQL 
+#### Conocimientos Aplicados
+✅  Spring Data JPA <br>
+✅  S
+
