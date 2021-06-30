@@ -18,9 +18,10 @@
 </div>
 
 #### Configuracion
-
+```
 > Holst: localhost, Port: 3306 <br>
 > JDBC URL: jdbc:mysql://localhost:3306/test?zeroDateTimeBehavior=CONVERT_TO_NULL&useSSL=false&useTimezone=true&serverTimezone=UTC
+```
 <br>
 
 <div align="left">
@@ -30,5 +31,21 @@
 ### Conectar a base de datos MYSQL 
 #### Conocimientos Aplicados
 ✅  Spring Data JPA <br>
-✅  S
+✅  PARAMETROS : <br>
+
+```
+# Mysql conexion 
+
+spring.datasource.url=jdbc:mysql://localhost/test?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrival=true
+spring.datasource.username=root
+spring.datasource.password=admin
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
+
+#Mostrar sql
+
+spring.jpa.properties.hibernate.format_sql=true
+logging.level.org.hibernate.SQL=DEBUG
+logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
+```
 
