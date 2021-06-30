@@ -48,4 +48,8 @@ spring.jpa.properties.hibernate.format_sql=true
 logging.level.org.hibernate.SQL=DEBUG
 logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 ```
+### Arquitectura
+<div align="center">
+<img   width="600" src="https://user-images.githubusercontent.com/66846214/124003436-8d14ac80-d99c-11eb-8d03-5096166d3901.png">
+</div>
 
