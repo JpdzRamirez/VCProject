@@ -11,7 +11,7 @@
 </thead>
 <tbody>
   <tr>
-    <td rowspan="11">Study Constances</td>
+    <td rowspan="11"><strong>Study Constances</strong></td>
    <td><strong>Resume</strong></td>
     <td>
      <details>
@@ -22,266 +22,146 @@
       </details></td>
   </tr>
   <tr>
-    <td>ss</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td rowspan="5">Seminary Constances </td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
- 
-   <br>
-<div class="table" id="Index_Programming" >
-    <table align="center" class="property" summary="All Stadys"> 
-    
-   <tr>
-       <th scope="row">Certificates</th>
-       <td align="center"><strong class="title">References</strong></td>
-   </tr>
-   </thead>
-   <tbody>
-   <tr>
-<th scope="row">Resume</th>
-   <td>
-      <details>
-        <summary>CV Resume</summary>
-        <p align="center" id="Hoja_Vida">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119734712-f99e0800-be40-11eb-997f-8c67a5f7ba88.jpg"> <br>
-      </p>
-      </details>
-   </td>
-</tr>
-<tr>
-<th scope="row">Pre-Work WSL Course for Windows</th>
-   <td>
-       <details>
+    <td><strong>Pre-Work WSL Course for Windows </strong></td>
+    <td><details>
         <summary>Prework WSL, GitHub and Visual Code</summary>
         <p align="center" id="PreWork_1">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/119885125-0715c980-bef7-11eb-8398-f9da592a16df.jpg"> <br>
       </p>
-      </details>
-   </td>
-   </tr>
-      
+      </details></td>
+  </tr>
   <tr>
-      <th scope="row">Pre-Work WSL Course for MAC-OS</th>
-      <td>
-         <details>
+   <td><strong>Pre-Work WSL Course for MAC-OS</strong></td>
+    <td><details>
         <summary>Prework WSL, GitHub and Visual Code</summary>
         <p align="center" id="PreWork_2">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/119886013-23fecc80-bef8-11eb-80f0-1d3761a0752f.jpg"> 
            <br>
       </p>
-      </details>
-     </td>
-      </tr>
-   <tr>
-<th scope="row">Standard C++ Foundation </th>
-   <td>
-  <details>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>Standard C++ Foundation</strong></td>
+    <td><details>
         <summary>C++ Certificate</summary>
         <p align="center" id="C++">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/119885887-00d41d00-bef8-11eb-9640-2420fdbf258e.jpg"> <br>
       </p>
-      </details>
-      </td>
-</tr>
-      
-            
-<th scope="row">Informatic security </th>
-   <td>
-  <details>
+      </details></td>
+  </tr>
+  <tr>
+    <td><strong>Informatic security</strong></td>
+    <td><details>
         <summary>Computer Security Controls</summary>
-        <p align="center" id="Security">
+        <p align="center" id="Security_1">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/119887189-6ecd1400-bef9-11eb-834e-3eaf4ef050c7.jpg"> <br>
       </p>
-      </details>
-      </td>
-</tr>
-      
-   <th scope="row">JAVA Curse </th>
-   <td>
-  <details>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>JAVA Curse</strong></td>
+    <td><details>
         <summary>Development of Applications with Graphical Interface and Handling of Events, Classes and JAVA Objects</summary>
         <p align="center" id="JAVA_1">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/119887453-cc616080-bef9-11eb-9a97-1086425dd307.jpg"> <br>
       </p>
-      </details>
-      </td>
-</tr>
- <th scope="row">Programming on Mobile Devices</th>
-   <td>
-  <details>
-        <summary>J2ME JAVA </summary>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong> JAVA Programming on Mobile Devices</strong></td>
+    <td><details>
+        <summary>Development of Applications with Graphical Interface and Handling of Events, Classes and JAVA Objects</summary>
         <p align="center" id="JAVA_2">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/121728926-81c41480-cab3-11eb-95fa-5a565b1c836c.png"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119887453-cc616080-bef9-11eb-9a97-1086425dd307.jpg"> <br>
       </p>
-      </details>
-      </td>
-</tr>  
-<th scope="row"> JAVA CURSE J2SE </th>
-   <td>
-  <details>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>JAVA Curse J2SE and collectors</strong></td>
+    <td><details>
         <summary>DEVELOPMENT OF APPLICATIONS WITH DATA MANAGEMENT IN MEMORY - JAVA </summary>
-        <p align="center" id="JAVA_2">
+        <p align="center" id="JAVA_3">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/124141151-c86fb380-da4e-11eb-941b-3e2e4d45769f.png"> <br>
       </p>
-      </details>
-      </td>
-</tr>  
-
-
-<th scope="row"> JAVA CURSE J2SE DATABASE </th>
-   <td>
-  <details>
-        <summary>DEVELOPMENT OF APPLETS / APPLICATIONS WITH USE OF DATABASE, NETWORKS, SERVLETS AND MULTIMEDIA </summary>
-        <p align="center" id="JAVA_2">
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>JAVA Curse Spring Boot MYSQL Database</strong></td>
+    <td><details>
+        <summary>Development of Applications with Use of MYSQL Database, Mapping-NETWORKS, Servelets, Tomcat, MVC Arquitecture and Server Programming </summary>
+        <p align="center" id="JAVA_4">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/121730955-f26c3080-cab5-11eb-919c-ba9867ee9020.png"> <br>
       </p>
-      </details>
-      </td>
-</tr>  
-
-<th scope="row"> JAVA SE OBJECTS </th>
-   <td>
-  <details>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong> Object-Oriented JAVA Programming</strong></td>
+    <td><details>
         <summary> OBJECT-ORIENTED JAVA PROGRAMMING</summary>
-        <p align="center" id="JAVA_2">
+        <p align="center" id="JAVA_5">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/122602128-eb09d180-d037-11eb-9560-c63c09118397.png"> <br>
       </p>
-      </details>
-      </td>
-</tr>  
-
-
-   <th scope="row"> Programming Foundation</th>
-   <td>
-  <details>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>Programming Base in WEB Desing</strong></td>
+    <td><details>
         <summary>Programming Fundamentals in HTML5, CSS3 And JAVASCRIPT</summary>
-        <p align="center" id="JAVA_1">
+        <p align="center" id="WEB_1">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/119887898-56112e00-befa-11eb-81ba-6591e81b51fa.jpg"> <br>
       </p>
-      </details>
-      </td>
-</tr> 
-   
-   <th scope="row"> Webinar about Visual.NET</th>
-   <td>
-  <details>
-        <summary>Webinar .NET </summary>
-        <p align="center" id="Visual_NET">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119888137-a12b4100-befa-11eb-9801-3219c5b6266c.jpg"> <br>
-      </p>
-      </details>
-      </td>
-</tr>    
-   
-
-   <th scope="row"> Webinar about Front End Web Developer</th>
-   <td>
-  <details>
+      </details></td>
+  </tr>
+  <tr>
+   <td rowspan="5"><strong>Seminary Constances</strong></td>
+   <td><strong> Webinar about Visual.NET</strong></td>
+    <td><details>
         <summary>Webinar Front End Web </summary>
         <p align="center" id="Visual_CodeT">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/120033967-f716ec00-bfc1-11eb-9211-2929b8482de8.png"> <br>
       </p>
-      </details>
-      </td>
-</tr>    
-
- <th scope="row"> Webinar about Microsoft Azure</th>
-   <td>
-  <details>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>Webinar about Front End Web Developer</strong></td>
+    <td><details>
+        <summary>Webinar Front End Web </summary>
+        <p align="center" id="Visual_CodeT">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/120033967-f716ec00-bfc1-11eb-9211-2929b8482de8.png"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>Webinar About Microsoft Azure</strong></td>
+    <td><details>
         <summary>Webinar Azure </summary>
         <p align="center" id="Microsoft">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/121727239-432d5a80-cab1-11eb-9929-d3cdd4a75d19.png"> <br>
       </p>
-      </details>
-      </td>
-</tr>    
-
-
- <th scope="row"> Webinar about UX Experience</th>
-   <td>
-  <details>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong> Webinar about UX Experience</strong></td>
+    <td><details>
         <summary>UX DESING </summary>
         <p align="center" id="UX_1">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/121729214-cfd91800-cab3-11eb-9cb9-3ecdc5a1bc38.png"> <br>
       </p>
-      </details>
-      </td>
-</tr>    
-
-<th scope="row"> Webinar about UX Experience</th>
-   <td>
-  <details>
-        <summary>UX DESING </summary>
-        <p align="center" id="UX_1">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/121729214-cfd91800-cab3-11eb-9cb9-3ecdc5a1bc38.png"> <br>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>Webinar about DEVOPS</strong></td>
+    <td><details>
+        <summary>DEVOPS </summary>
+        <p align="center" id="DEV_1">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/124177445-e3095300-da75-11eb-9a72-4f2f5f99b799.jpg"> <br>
       </p>
-      </details>
-      </td>
-</tr>    
-
+      </details></td>
+  </tr>
 </tbody>
 </table>
-</div>
 
-
+   <br>
 
 <H1 align="Center">  Administrative Studies <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="85px"><img src="https://media.giphy.com/media/f4JSqg5rt40xAPG5Xm/giphy.gif" width="75px">   <br><img src="https://cdn.dribbble.com/users/85748/screenshots/657526/ivio_dribbble_02.gif" width="400px"> </H1> 
 
