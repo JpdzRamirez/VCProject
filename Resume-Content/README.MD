@@ -1,11 +1,94 @@
 <H1 align="Center">  Programming studies <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="35px">   <br><img src="https://i.pinimg.com/originals/6c/7e/c7/6c7ec7cbb462babe074fe20ec479fbf8.gif" width="400px"> </H1> 
 
  
+<table>
+<thead>
+  <tr>
+    <th>Type</th>
+    <th>Certificates</th>
+    <th>References</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="11">Study Constances</td>
+   <td><strong>Resume</strong></td>
+    <td>
+     <details>
+        <summary>CV Resume</summary>
+        <p align="center" id="resume">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119734712-f99e0800-be40-11eb-997f-8c67a5f7ba88.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+    <td>ss</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5">Seminary Constances </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+ 
    <br>
 <div class="table" id="Index_Programming" >
-    <table align="center" class="property" summary="All Stadys">
-    <thead>
-       
+    <table align="center" class="property" summary="All Stadys"> 
+    
    <tr>
        <th scope="row">Certificates</th>
        <td align="center"><strong class="title">References</strong></td>
@@ -96,11 +179,12 @@
   <details>
         <summary>DEVELOPMENT OF APPLICATIONS WITH DATA MANAGEMENT IN MEMORY - JAVA </summary>
         <p align="center" id="JAVA_2">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/121729759-702f3c80-cab4-11eb-86dc-d896032b169d.png"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/124141151-c86fb380-da4e-11eb-941b-3e2e4d45769f.png"> <br>
       </p>
       </details>
       </td>
 </tr>  
+
 
 <th scope="row"> JAVA CURSE J2SE DATABASE </th>
    <td>
@@ -172,6 +256,17 @@
 
 
  <th scope="row"> Webinar about UX Experience</th>
+   <td>
+  <details>
+        <summary>UX DESING </summary>
+        <p align="center" id="UX_1">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/121729214-cfd91800-cab3-11eb-9cb9-3ecdc5a1bc38.png"> <br>
+      </p>
+      </details>
+      </td>
+</tr>    
+
+<th scope="row"> Webinar about UX Experience</th>
    <td>
   <details>
         <summary>UX DESING </summary>
@@ -402,3 +497,35 @@
 </div>
 
 
+<H1 align="Center"> Technical experience in computer systems and repair
+ <img src="https://media.giphy.com/media/1irGj8vnpt68Oq0kdu/giphy.gif" width="75px"><br>
+ <img src="https://cdn.dribbble.com/users/2395254/screenshots/4962997/fix.gif" width="400px"> </H1> 
+
+<div class="table" id="Index_Experience" >
+    <table align="center" class="property" summary="All Stadys">
+
+       
+   <tr>
+       <th scope="row">Certificates</th>
+       <td align="center"><strong class="title">References</strong></td>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+<th scope="row">Technical Certificate</th>
+   <td>
+      <details>
+        <summary>Processes for technical support and computer repair </summary>
+        <p align="center" id="Tech_1">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/124142330-c22e0700-da4f-11eb-921c-23a62b5eab5a.png"> <br>
+      </p>
+      </details>
+   </td>
+</tr>
+<tr>
+
+
+
+</tbody>
+</table>
+</div>
