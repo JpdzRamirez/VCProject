@@ -56,7 +56,7 @@ logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 ### Inyectar dependencias y sincronizar MYSQL
 #### Conocimientos Aplicados
 ✅  @Autowired <br>
-✅  public interface IPersonaDao extends CrudRepository<Persona, Long> <br>
+✅  Crear interface con el dominio DAO <br>
 ✅  Genera base de datos para el mapeo de la lista de personas desde MYSQL <br>
 
 ### TEST
@@ -72,4 +72,5 @@ logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 <img src="https://user-images.githubusercontent.com/66846214/124041792-31164c00-d9cd-11eb-9492-cd277c194335.png">
 </div>
 
+### Realizar CRUD (Create, Read, Update, Delete)
 
