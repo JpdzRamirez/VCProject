@@ -57,7 +57,7 @@ logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 #### Conocimientos Aplicados
 ✅  @Autowired <br>
 ✅  Crear interface con el dominio DAO <br>
-✅  Genera base de datos para el mapeo de la lista de personas desde MYSQL <br>
+✅  Genera base de datos para el mapeo de la lista de personas desde MYSQL, para mapear ->👉 @{/identificador} <br>
 
 ### TEST
 
