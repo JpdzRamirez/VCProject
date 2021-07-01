@@ -74,3 +74,7 @@ logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 
 ### Realizar CRUD (Create, Read, Update, Delete)
 
+✅  GetMapping <br>
+✅  PostMapping <br>
+
+
