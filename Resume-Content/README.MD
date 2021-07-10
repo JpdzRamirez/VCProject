@@ -70,9 +70,9 @@
   <tr>
    <td><strong> JAVA Programming on Mobile Devices</strong></td>
     <td><details>
-        <summary>Development of Applications with Graphical Interface and Handling of Events, Classes and JAVA Objects</summary>
+        <summary>Software architecture and programming for mobile devices</summary>
         <p align="center" id="JAVA_2">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119887453-cc616080-bef9-11eb-9a97-1086425dd307.jpg"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/125174962-a4b71680-e18e-11eb-979c-a7768abc9367.png"> <br>
       </p>
       </details></td>
   </tr>
