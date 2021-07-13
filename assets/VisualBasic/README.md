@@ -5,7 +5,7 @@
 
 - Fundamentos aplicados en Microsoft Excel Avanzado <br>
   - 🧮Funciones matematicas para datos numericos : (Máximo, Mínimo, Promedio, Contar, Sumar)
-  - ✅Funciones de busqueda y tratamiento datos de datos TXT : (BuscarV, BuscarH, Coincodemcias, Concatenar, Lenght, Extraer y encontrar)
+  - ✅Funciones de busqueda y tratamiento datos de datos TXT : (BuscarV, BuscarH, Coiniodencias, Concatenar, Lenght, Extraer y encontrar)
   - ⚖Funciones Condicionales y operadores logicos (IF, ELSE, &&, || OR, etc.)
   - 🔐Proteccion de celdas y libros (seguridad y control de datos)
   - 🔍Auditoría e inpección de Formulas y libros de excel (Precedentes y Dependientes)
