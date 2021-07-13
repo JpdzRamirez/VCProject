@@ -13,7 +13,9 @@
   - 📑Comportamientos de Listas de Excel (Organización de Datos, Busqueda de duplicados, BDSUMA, Validacion, Subtotales)
   - 🚨PowerPivot e Indicadores KPI 
   - 📲Listas desplegables (Directo e Inderecto)
-- ### Desarrollo de algoritmos especializados en gestionar bases de Datos 📚🔍
+
+## ❗❗❗Dar Click a cada seccion para ver 👀❗❗❗
+- ### Desarrollo de algoritmos especializados en gestionar bases de Datos 📚🔍 
   - <details>
         <summary>Algoritmo Calculo entre fechas</summary>
         <p align="center" id="alg_1">
