@@ -59,6 +59,12 @@
       </p>
       </details></td>
       
+   -  <details>
+          <summary>Automatizador en calculos (Function)</summary>
+          <p align="center" id="gif_2">
+          <img align="center" src="https://user-images.githubusercontent.com/66846214/125505806-60d113b8-699d-4741-99b8-ce8ec61635d1.gif" "> <br>
+          </p>
+        </details></td> 
    - <details>
         <summary><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic/Bases%20de%20Datos/Libros%20Excel/EPS">Tansposicion de Datos</a></summary>
         <p align="center" id="gif_1">
@@ -81,11 +87,12 @@
         <img align="center" src="https://media.giphy.com/media/ibpZRllW17kyJTlCMA/giphy.gif" width="300px"> <br>
       </p>
       </details></td>
-      - <details>
-          <summary>Interfaz grafica</summary>
+     -  <details>
+          <summary>Diseño de aplicaciones interactivas</summary>
           <p align="center" id="gif_2">
-          <img align="center" src="https://media.giphy.com/media/ibpZRllW17kyJTlCMA/giphy.gif" width="300px"> <br>
+          <img align="center" src="https://user-images.githubusercontent.com/66846214/125505239-205c3f5d-f197-4708-adfd-4faa85c7367c.gif" > <br>
           </p>
         </details></td>
-
      
+     
+
