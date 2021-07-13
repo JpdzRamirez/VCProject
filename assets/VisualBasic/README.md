@@ -1,6 +1,8 @@
 
 # Conocimientos en Visual Basic y aplicaciones 
 
+
+
 - Fundamentos aplicados en Microsoft Excel Avanzado <br>
   - 🧮Funciones matematicas para datos numericos : (Máximo, Mínimo, Promedio, Contar, Sumar)
   - ✅Funciones de busqueda y tratamiento datos de datos TXT : (BuscarV, BuscarH, Coincodemcias, Concatenar, Lenght, Extraer y encontrar)
@@ -66,30 +68,35 @@
           </p>
         </details></td> 
    - <details>
-        <summary><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic/Bases%20de%20Datos/Libros%20Excel/EPS">Tansposicion de Datos</a></summary>
+        <summary>Transposición de Datos</summary>
         <p align="center" id="gif_1">
-        <img align="center" src="https://media.giphy.com/media/Sb9KqeeymLlESGWZyE/giphy.gif" width="300px"> <br>
+         <a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic/Bases%20de%20Datos/Libros%20Excel/EPS">Ver Codigo</a>
+          <img src="https://user-images.githubusercontent.com/66846214/125508303-50196506-9041-4c45-9bef-d91213a57b26.png" width="32px">
+        <img align="center" src="https://user-images.githubusercontent.com/66846214/125508183-e48861f7-a199-418f-b30f-8e767701070e.gif"> <br>
       </p>
       </details></td>
+   - Sistemas Inteligentes para Nominas y Auditorías
+                                                                                                                                       
+https://user-images.githubusercontent.com/66846214/125512987-a397998c-32d5-46fd-99b8-1df796184500.mp4
 
 
 
 - Conocimientos En desarrollo de applicaciones e interfaces graficas para Microsoft Excel 📈 
   -  <details>
         <summary>Autogestor</summary>
-        <p align="center" id="gif_1">
+        <p align="center" id="gif_3">
         <img align="center" src="https://media.giphy.com/media/Sb9KqeeymLlESGWZyE/giphy.gif" width="300px"> <br>
       </p>
       </details></td>
   -   <details>
         <summary>Interfaz grafica</summary>
-        <p align="center" id="gif_2">
+        <p align="center" id="gif_4">
         <img align="center" src="https://media.giphy.com/media/ibpZRllW17kyJTlCMA/giphy.gif" width="300px"> <br>
       </p>
       </details></td>
      -  <details>
           <summary>Diseño de aplicaciones interactivas</summary>
-          <p align="center" id="gif_2">
+          <p align="center" id="gif_5">
           <img align="center" src="https://user-images.githubusercontent.com/66846214/125505239-205c3f5d-f197-4708-adfd-4faa85c7367c.gif" > <br>
           </p>
         </details></td>
