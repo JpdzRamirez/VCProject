@@ -1,6 +1,6 @@
 <H1 align="Center">  Programming studies <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="35px">   <br><img src="https://i.pinimg.com/originals/6c/7e/c7/6c7ec7cbb462babe074fe20ec479fbf8.gif" width="400px"> </H1> 
 
- 
+
 <table>
 <thead>
   <tr>
@@ -17,7 +17,7 @@
      <details>
         <summary>CV Resume</summary>
         <p align="center" id="resume">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119734712-f99e0800-be40-11eb-997f-8c67a5f7ba88.jpg"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/125709996-512f1406-788d-4953-afbd-f88398b14cc5.png"> <br>
       </p>
       </details></td>
   </tr>
