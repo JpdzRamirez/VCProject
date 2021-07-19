@@ -1,13 +1,18 @@
-# Project Backend Banco 
+# Project Backend Bank💲📀 
 
-### Layout scheme
+### Layout scheme🖼
 ![image](https://user-images.githubusercontent.com/66846214/126203596-92923612-4902-46d2-bd43-6bb1e0ee27ef.png)
 
 
-### Clients Control
+### Clients Control 🧏‍♂️
 
+<details>
+	<summary>
+	Desplegar
+	</summary>
+	<code>
+		
 ```
-
 package com.cmc.evaluacion.fase2.servicios;
 
 import java.io.BufferedReader;
@@ -98,13 +103,19 @@ public class AdminClientes {
 		}
 		
 	}
+`````
+	</code>
+</details>
 
-
-```
 
 ## Lending Control
-
-
+	
+<a align="center">
+	<details>
+	<summary>
+	Desplegar
+	</summary>
+	<code>
 
 ```
 import java.io.BufferedReader;
@@ -226,7 +237,9 @@ public class AdminPrestamos {
 	}
 
 
-```
+``
+</code>
+	</a>
 
 
 
