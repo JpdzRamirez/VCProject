@@ -1,0 +1,209 @@
+2021-07-17 09:27:58.599 [main] INFO  com.cmc.evaluacion.fase2.entidades.Cartera - No hay registros
+2021-07-17 09:27:58.602 [main] INFO  com.cmc.evaluacion.fase2.entidades.Cartera - No hay registros
+2021-07-17 09:27:58.603 [main] INFO  com.cmc.evaluacion.fase2.entidades.Cartera - No hay registros
+2021-07-17 09:48:10.705 [main] ERROR com.cmc.evaluacion.fase2.servicios.AdminClientes - Error al leer el archivo, archovo no encontrado
+java.io.FileNotFoundException: D:\Proyecto JAVA ECUADOR\Evaluacion\Documentos\archivos\Clientes.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_291]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_291]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_291]
+	at java.io.FileReader.<init>(FileReader.java:72) ~[?:1.8.0_291]
+	at com.cmc.evaluacion.fase2.servicios.AdminClientes.armarCartera(AdminClientes.java:38) [classes/:?]
+	at com.cmc.evaluacion.fase2.test.TestClientes.testLeer(TestClientes.java:13) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_291]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_291]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_291]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_291]
+	at junit.framework.TestCase.runTest(TestCase.java:154) [junit-3.8.1.jar:?]
+	at junit.framework.TestCase.runBare(TestCase.java:127) [junit-3.8.1.jar:?]
+	at junit.framework.TestResult$1.protect(TestResult.java:106) [junit-3.8.1.jar:?]
+	at junit.framework.TestResult.runProtected(TestResult.java:124) [junit-3.8.1.jar:?]
+	at junit.framework.TestResult.run(TestResult.java:109) [junit-3.8.1.jar:?]
+	at junit.framework.TestCase.run(TestCase.java:118) [junit-3.8.1.jar:?]
+	at junit.framework.TestSuite.runTest(TestSuite.java:208) [junit-3.8.1.jar:?]
+	at junit.framework.TestSuite.run(TestSuite.java:203) [junit-3.8.1.jar:?]
+	at org.eclipse.jdt.internal.junit.runner.junit3.JUnit3TestReference.run(JUnit3TestReference.java:121) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+2021-07-17 09:49:10.978 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 09:49:10.981 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 09:49:44.518 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 09:49:44.520 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:00:24.144 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:00:24.147 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:01:44.448 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:01:44.450 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:03:25.467 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:03:25.469 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:04:28.350 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:04:28.353 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:05:58.248 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:05:58.250 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:13:20.616 [main] ERROR com.cmc.evaluacion.fase2.servicios.AdminClientes - error al armar cliente en la linea
+2021-07-17 10:13:20.618 [main] ERROR com.cmc.evaluacion.fase2.servicios.AdminClientes - error al armar cliente en la linea
+com.cmc.evaluacion.fase2.commons.UncheckedException: Error al armar cliente en la linea2
+	at com.cmc.evaluacion.fase2.servicios.AdminClientes.armarCliente(AdminClientes.java:40) [classes/:?]
+	at com.cmc.evaluacion.fase2.servicios.AdminClientes.armarCartera(AdminClientes.java:85) [classes/:?]
+	at com.cmc.evaluacion.fase2.test.TestArchivoCorrupto.testLeer(TestArchivoCorrupto.java:13) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_291]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_291]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_291]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_291]
+	at junit.framework.TestCase.runTest(TestCase.java:154) [junit-3.8.1.jar:?]
+	at junit.framework.TestCase.runBare(TestCase.java:127) [junit-3.8.1.jar:?]
+	at junit.framework.TestResult$1.protect(TestResult.java:106) [junit-3.8.1.jar:?]
+	at junit.framework.TestResult.runProtected(TestResult.java:124) [junit-3.8.1.jar:?]
+	at junit.framework.TestResult.run(TestResult.java:109) [junit-3.8.1.jar:?]
+	at junit.framework.TestCase.run(TestCase.java:118) [junit-3.8.1.jar:?]
+	at junit.framework.TestSuite.runTest(TestSuite.java:208) [junit-3.8.1.jar:?]
+	at junit.framework.TestSuite.run(TestSuite.java:203) [junit-3.8.1.jar:?]
+	at org.eclipse.jdt.internal.junit.runner.junit3.JUnit3TestReference.run(JUnit3TestReference.java:121) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+2021-07-17 10:13:20.623 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 10:13:20.623 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 11:23:54.800 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 11:23:54.803 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 11:23:54.806 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-17 11:23:54.806 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-17 11:23:54.808 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 11:23:54.808 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 11:23:54.808 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-17 11:23:54.808 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-17 11:24:51.692 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 11:24:51.694 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 11:26:44.826 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-17 11:26:44.829 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:42:19.225 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:42:19.237 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:42:19.246 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:42:19.246 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:42:19.268 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:42:19.269 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:42:19.269 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:42:19.269 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:42:59.032 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:42:59.035 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:42:59.038 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:42:59.038 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:42:59.040 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:42:59.040 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:42:59.040 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:42:59.040 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:43:50.771 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:43:50.774 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:43:50.777 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:43:50.777 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:43:50.777 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:43:50.777 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 07:43:50.778 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 07:43:50.778 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 09:38:52.394 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 09:38:52.397 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 09:38:52.400 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 09:38:52.400 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 09:39:19.522 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 09:39:19.525 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 09:39:19.528 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 09:39:19.528 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 09:41:49.384 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 09:41:49.388 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 09:41:49.392 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 09:41:49.393 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 09:54:51.078 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 09:54:51.081 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 09:54:51.084 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 09:54:51.085 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:13:17.358 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:13:17.360 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:13:17.365 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:13:17.365 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:14:34.340 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:14:34.343 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:14:34.346 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:14:34.347 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:15:44.408 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:15:44.411 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:15:44.415 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:15:44.415 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:16:58.192 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:16:58.195 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:16:58.199 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:16:58.199 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:33:12.816 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:33:12.819 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:33:12.822 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:33:12.822 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:36:21.043 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:36:21.046 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:36:21.049 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:36:21.049 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:37:36.869 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:37:36.871 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:37:36.874 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:37:36.875 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:37:45.788 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:37:45.791 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:37:45.795 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:37:45.795 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:42:38.849 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:42:38.852 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:42:38.855 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:42:38.855 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:42:54.457 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:42:54.460 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:42:54.463 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:42:54.463 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:45:50.246 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:45:50.248 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:45:50.252 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:45:50.252 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:46:46.999 [main] ERROR com.cmc.evaluacion.fase2.servicios.AdminClientes - error al armar cliente en la linea
+2021-07-18 10:46:47.002 [main] ERROR com.cmc.evaluacion.fase2.servicios.AdminClientes - error al armar cliente en la linea
+com.cmc.evaluacion.fase2.commons.UncheckedException: Error al armar cliente en la linea2
+	at com.cmc.evaluacion.fase2.servicios.AdminClientes.armarCliente(AdminClientes.java:39) [classes/:?]
+	at com.cmc.evaluacion.fase2.servicios.AdminClientes.armarCartera(AdminClientes.java:86) [classes/:?]
+	at com.cmc.evaluacion.fase2.test.TestArchivoCorrupto.testLeer(TestArchivoCorrupto.java:13) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_291]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_291]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_291]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_291]
+	at junit.framework.TestCase.runTest(TestCase.java:154) [junit-3.8.1.jar:?]
+	at junit.framework.TestCase.runBare(TestCase.java:127) [junit-3.8.1.jar:?]
+	at junit.framework.TestResult$1.protect(TestResult.java:106) [junit-3.8.1.jar:?]
+	at junit.framework.TestResult.runProtected(TestResult.java:124) [junit-3.8.1.jar:?]
+	at junit.framework.TestResult.run(TestResult.java:109) [junit-3.8.1.jar:?]
+	at junit.framework.TestCase.run(TestCase.java:118) [junit-3.8.1.jar:?]
+	at junit.framework.TestSuite.runTest(TestSuite.java:208) [junit-3.8.1.jar:?]
+	at junit.framework.TestSuite.run(TestSuite.java:203) [junit-3.8.1.jar:?]
+	at junit.framework.TestSuite.runTest(TestSuite.java:208) [junit-3.8.1.jar:?]
+	at junit.framework.TestSuite.run(TestSuite.java:203) [junit-3.8.1.jar:?]
+	at org.eclipse.jdt.internal.junit.runner.junit3.JUnit3TestReference.run(JUnit3TestReference.java:121) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+2021-07-18 10:46:47.009 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.009 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.009 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.010 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.013 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:46:47.013 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:46:47.014 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.014 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.015 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.015 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.015 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.015 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.016 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:46:47.016 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:46:47.016 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.016 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminClientes - El buffer ha sido cerrado
+2021-07-18 10:46:47.017 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
+2021-07-18 10:46:47.017 [main] INFO  com.cmc.evaluacion.fase2.servicios.AdminPrestamos - El buffer ha sido cerrado
