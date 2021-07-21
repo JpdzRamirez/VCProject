@@ -23,6 +23,94 @@ private:
 
     Nodo *raiz;
 ```
+<details>
+<summary>Codigo para insertar elementos en un Nodo sencillamente enlazado🔜</summary>
+
+	
+```
+void ListaGenerica::insertar(int pos, Zapato x)
+{
+    if (pos <= cantidad() + 1)
+    {
+        Nodo* nuevo = new Nodo();
+        nuevo->info = x;
+        if (pos == 1)
+        {
+            nuevo->sig = raiz;
+            raiz = nuevo;
+        }
+        else
+            if (pos == cantidad() + 1)
+            {
+                Nodo* reco = raiz;
+                while (reco->sig != NULL)
+                {
+                    reco = reco->sig;
+                }
+                reco->sig = nuevo;
+                nuevo->sig = NULL;
+            }
+            else
+            {
+                Nodo* reco = raiz;
+                for (int f = 1; f <= pos - 2; f++)
+                {
+                    reco = reco->sig;
+                }
+                Nodo* siguiente  = reco->sig;
+                reco->sig = nuevo;
+                nuevo->sig = siguiente;
+            }
+    }
+}
+```
+
+</details>
+<details>
+<summary>Codigo para casos doblemente enlazados 🔙🔜</summary>
+
+```
+void ListaGenerica::insertar(int pos, Zapato x){
+	if (pos <= cantidad() + 1)   
+    {
+        Nodo *nuevo = new Nodo();
+        nuevo->info = x;
+        if (pos == 1)
+        {
+            nuevo->sig = raiz;
+            if (raiz != NULL)
+                raiz->ant = nuevo;
+            raiz = nuevo;
+        }
+        else
+            if (pos == cantidad() + 1)    
+            {
+                Nodo *reco = raiz;
+                while (reco->sig != NULL)
+                {
+                    reco = reco->sig;
+                }
+                reco->sig = nuevo;
+                nuevo->ant = reco;
+                nuevo->sig = NULL;
+            }
+            else 
+            {
+                Nodo *reco = raiz;
+                for (int f = 1; f <= pos - 2; f++)
+                    reco = reco->sig;
+                Nodo *siguiente = reco->sig;
+                reco->sig = nuevo;
+                nuevo->ant = reco;
+                nuevo->sig = siguiente;
+                siguiente->ant = nuevo;
+            }
+    }
+}
+```
+
+</details>
+	
 ## Actividad 1
 
 >ACTIVIDAD 1  EVIDENCIA 2: ESTUDIO DE CASO "DEFINICIÓN DE VARIABLES, PRUEBA DE ENTRADA Y SALIDA DE DATOS. DESARROLLO DE APLICACIÓN EN C++ PARTE I"
@@ -186,5 +274,77 @@ int main() {}
 <img   src="https://user-images.githubusercontent.com/66846214/126524171-32451034-d121-4a87-8510-2f54225c1c80.png" />
 </a>
 </details>	
-</body>
 
+
+## Actividad 3
+
+>Actividad 2 - Evidencia 1: Taller "Aplicando expresiones y funciones matemáticas"	
+	
+<br>		
+<p align="left"> En esta sección trabajamos la entrada y salida de datos, utilizando la funciones personalizadas, en este caso utilizamos la constante <code>M_PI</code>  de la libreria importada <code>#include "math.h". </p>
+
+```
+void AdministradorProductos::imprimirFactura(string codigo, int cantidad)
+{
+	double total=this->listaProductos->calcularPrecio(codigo,cantidad);
+
+	cout << "***********************************************" << endl;
+	cout << "                FACTURA DE COMPRA             " << endl;
+	this->imprimirFecha();
+	cout <<"Producto: " << this->listaProductos->extraer(codigo)<<endl;
+	cout << "TOTAL........................................ "<<total<<"X Unit" << cantidad<<endl;
+	
+	
+}
+ ```
+>Codigo utilizando funciones para Imprimir la factura
+	
+```	
+double ListaGenerica::calcularPrecio(string _codigo, int _cantidad)
+{
+    Nodo* reco = raiz;
+    bool existe = false;
+    int opcionModificar = 0;
+    int salir = 1;
+    string varTempString = "";
+    float varTempFloat = 0;
+    string optionEXIT = "";
+    double resultado = 0;
+
+    while (reco != NULL) //VERIFICAMOS SI EXISTE EL ITEM EN LA LISTA
+    {
+        if (reco->info.getCodigo() == _codigo)
+        {
+            existe = true;
+            break; //guardamos la posicion del apuntador reco que obtiene la posicion de memoria actual 
+        }
+        else
+        {
+            reco = reco->sig;
+        }
+
+    }
+
+    if (existe) //SI EXISTE
+    {
+        resultado = reco->info.getPrecio()*_cantidad;
+    }
+    return resultado;
+}
+```	
+>Codigo utilizado para calcular el total de la compra accediento a la lista por medio de la estructura nodo 
+<code>class Nodo {
+    public:
+        Zapato info;
+        Nodo *sig;
+    };</code>
+<br>
+<details>
+	<summary>Ver imagen👀❗</summary>
+<a align="center">
+<img   src="https://user-images.githubusercontent.com/66846214/126552093-b6ca9f6f-a128-4d4f-9159-853795531c0d.png" />
+</a>
+</details>	
+
+	
+</body>
