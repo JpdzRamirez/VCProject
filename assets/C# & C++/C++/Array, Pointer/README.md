@@ -10,7 +10,7 @@
 <br>
 
 <body>
-<p align="left"> En esta sección trabajamos la entrada y salida de datos, utilizando la funcion <code>CIN</code> importada de la libreria importada <code>#include "iostream"</code></p>
+<p align="left"> En esta sección trabajamos la entrada y salida de datos, utilizando la funcion <code>CIN y COUT</code>  de la libreria importada <code>#include "iostream". </code>En este ejemplo utilizamos limpieza de buffer para correjir la excepción producida al ingresar un numero en una variable de tipo <code>string</code></p>
 
 ```
 menu.showTitle();
@@ -28,4 +28,10 @@ menu.showTitle();
 				break;
 		}
  ```
+	<a>
+	<img  align="center" src="https://user-images.githubusercontent.com/66846214/126503238-55825956-7f23-48c6-a934-894fb5587ed1.png" >
+	</a>
+	<br>
+	![image](https://user-images.githubusercontent.com/66846214/126503238-55825956-7f23-48c6-a934-894fb5587ed1.png)
+
 </body>
