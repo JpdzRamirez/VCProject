@@ -36,9 +36,66 @@ menu.showTitle();
 <a align="center">
 <img   src="https://user-images.githubusercontent.com/66846214/126503238-55825956-7f23-48c6-a934-894fb5587ed1.png" />
 </a>
+</details>
+	
+	
+## Actividad 1
+
+>ACTIVIDAD 2 EVIDENCIA 2: ESTUDIO DE CASO "DEFINICIÓN DE VARIABLES, PRUEBA DE ENTRADA Y SALIDA DE DATOS. DESARROLLO DE APLICACIÓN EN C++ PARTE II	
+	
+<br>		
+<p align="left"> En esta sección trabajamos la entrada y salida de datos, utilizando la funciones personalizadas, en este caso utilizamos la constante <code>M_PI</code>  de la libreria importada <code>#include "math.h". </p>
+
+```
+double calcularAreaTriangulo(double x, double y) {
+
+	double area;
+	area = (x * y) / 2;
+	return area;
+}
+double calcularAreaRectangulo(double ancho, double alto) {
+
+	double area;
+	area = (ancho * alto);
+	return area;
+}
+double calcularAreaRombo(double diagMayor, double diagMenor) {
+
+	double area;
+	area = (diagMayor * diagMenor)/2;
+	return area;
+}
+double calcularAreaParalelogramo(double base, double altura) {
+
+	double area;
+	area = (base * altura);
+	return area;
+}
+double calcularAreaTrapecio(double baseMayor, double baseMenor, double altura) {
+
+	double area;
+	area = ((baseMayor + baseMenor)/2)*altura;
+	return area;
+}
+
+double calcularAreaCirculo(double radio) {
+
+	double area;
+	area = radio* M_PI;
+	return area;
+}
+
+
+int main() {}
+ ```
+>Codigo utilizando funciones para calcular area
 <br>
-	
-	
-	
+<details>
+	<summary>Ver imagen👀❗</summary>
+<a align="center">
+<img   src="https://user-images.githubusercontent.com/66846214/126524171-32451034-d121-4a87-8510-2f54225c1c80.png" />
+</a>
+</details>
+
 </body>
 
