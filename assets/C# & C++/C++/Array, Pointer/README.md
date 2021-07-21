@@ -2,6 +2,7 @@
 <H1 align="center"><Strong>ESTRUCTURA DEL LENGUAJE DE PROGRAMACION  <img src="https://art.pixilart.com/0d92ea76c0f540a.gif" width="80px"></H1>
 <br>
 </header>
+	
 ## Actividad 1
 
 >ACTIVIDAD 1  EVIDENCIA 2: ESTUDIO DE CASO "DEFINICIÓN DE VARIABLES, PRUEBA DE ENTRADA Y SALIDA DE DATOS. DESARROLLO DE APLICACIÓN EN C++ PARTE I"
