@@ -12,8 +12,9 @@
 <img   src="https://user-images.githubusercontent.com/66846214/126549934-0eadb038-8c5f-42e8-85c1-c0b95537624b.png" />
 </a>
 <br>
-<p>	
-<center>
+
+	
+<a align="center">
 <table>
 	
 <thead>
@@ -24,21 +25,34 @@
 </thead>
 <tbody>
   <tr>
-    <td>
-<code>
-class Nodo {
-public:
-Zapato info;
-Nodo *sig;
-};
-</code>
-	  </td>
-    <td><br><code><br>class Nodo {<br>    public:<br>        int info;<br>        Nodo *sig;<br>        Nodo *ant;<br>    };<br><br></code><br></td>
+<td>
+	
+	
+	class Nodo {
+	public:
+	Zapato info;
+	Nodo *sig;
+	};	
+	
+	
+	    
+</td>
+<td>
+	    
+	class Nodo {
+	public:
+	int info;
+		Nodo *sig;
+		Nodo *ant;
+	    };
+	
+</td>
   </tr>
 </tbody>
+	
 </table>
-</center>	
-</p>	
+</a>	
+	
 <br>
 	
 <details>
