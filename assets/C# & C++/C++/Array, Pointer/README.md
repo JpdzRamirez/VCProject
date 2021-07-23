@@ -11,18 +11,36 @@
 <a align="center">
 <img   src="https://user-images.githubusercontent.com/66846214/126549934-0eadb038-8c5f-42e8-85c1-c0b95537624b.png" />
 </a>
-
-```
-class ListaGenerica {
-private:
-    class Nodo {
-    public:
-        Zapato info;
-        Nodo *sig;
-    };
-
-    Nodo *raiz;
-```
+<br>
+<p>	
+<center>
+<table>
+	
+<thead>
+  <tr>
+    <th>Estructura simple</th>
+    <th>Estructura doble</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+<code>
+class Nodo {
+public:
+Zapato info;
+Nodo *sig;
+};
+</code>
+	  </td>
+    <td><br><code><br>class Nodo {<br>    public:<br>        int info;<br>        Nodo *sig;<br>        Nodo *ant;<br>    };<br><br></code><br></td>
+  </tr>
+</tbody>
+</table>
+</center>	
+</p>	
+<br>
+	
 <details>
 <summary>Codigo para insertar elementos en un Nodo sencillamente enlazado🔜</summary>
 
