@@ -6,12 +6,20 @@
 # Conocimientos implementados 🧐🤓 Estructuras dinámicas en C++: Listas genéricas sencillamente enlazadas
 ✔ En el siguiente sistema de información se han implementado el uso de <code>Pointers</code> y estructuras de tipo <code>*Nodo</code>. <br>
 ✔ En el siguiente sistema de informacion se ha instanciado Listas de tipo Generica, como estructura de dato relacionado para guardar ordenadamente objetos.<br>
+
 	
 ### Esquema grafico 👀
 <a align="center">
 <img   src="https://user-images.githubusercontent.com/66846214/126549934-0eadb038-8c5f-42e8-85c1-c0b95537624b.png" />
 </a>
 <br>
+
+### Video tutorial 🎬
+
+
+
+https://user-images.githubusercontent.com/66846214/126833495-e8d69271-0059-437d-955a-80354b52203a.mp4
+
 
 	
 <a align="center">
