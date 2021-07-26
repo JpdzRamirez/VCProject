@@ -9,7 +9,10 @@
  </p>
  
 
-https://user-images.githubusercontent.com/66846214/126926565-da8fba52-7f58-4b7f-b9f9-192b8929113f.mp4
+
+
+https://user-images.githubusercontent.com/66846214/126926685-abd2be38-2572-44a1-aa21-ae28edee6522.mp4
+
 
 > Video explicativo -> Como configurar PHP🎬
 </div>
