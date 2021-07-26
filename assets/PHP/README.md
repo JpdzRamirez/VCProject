@@ -6,7 +6,12 @@
 <div>
 <p>
 ✔ En primera instancia vamos a configurar el entorno de desarrollo para PHP  
-</p>  
+ </p>
+ 
+
+https://user-images.githubusercontent.com/66846214/126926565-da8fba52-7f58-4b7f-b9f9-192b8929113f.mp4
+
+> Video explicativo -> Como configurar PHP🎬
 </div>
  </body)
   
