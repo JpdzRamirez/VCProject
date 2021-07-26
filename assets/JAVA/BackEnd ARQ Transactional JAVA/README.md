@@ -17,6 +17,47 @@
 	<img src="https://user-images.githubusercontent.com/66846214/126988788-087e7dee-ef8a-4dfc-97be-3953d8bb9733.png"/>
 	</a>
 </details>
+<details>
+	<summary> 
+	Colecciones
+	</summary>
+	<a>
+	<img src="https://user-images.githubusercontent.com/66846214/126992444-8a262609-9d0e-4e15-bee2-62b6e1e1f1bb.png"/>
+	</a>
+</details>
+<details>
+	<summary> 
+	Estaticos
+	</summary>
+	<a>
+	<img src="https://user-images.githubusercontent.com/66846214/126992590-6a3d8735-7519-43f3-8816-1a1ec732b63c.png"/>
+	</a>
+</details>
+<details>
+	<summary> 
+	Log4j
+	</summary>
+	<a>
+	<img src="https://user-images.githubusercontent.com/66846214/126992805-5cf039b5-d058-4ef5-ae64-cb0c8ba19182.png"/>
+	</a>
+</details>
+<details>
+	<summary> 
+	Maven
+	</summary>
+	<a>
+	<img src="https://user-images.githubusercontent.com/66846214/126993040-61c0a0f8-5397-4a32-98d2-ea215d04df91.png"/>
+	</a>
+</details>
+<details>
+	<summary> 
+	Excepciones
+	</summary>
+	<a>
+	<img src="https://user-images.githubusercontent.com/66846214/126993134-b2e7aa06-4be5-4778-8311-6f8e8505fe91.png"/>
+	</a>
+</details>
+
 
 ### Layout scheme🖼
 ![image](https://user-images.githubusercontent.com/66846214/126203596-92923612-4902-46d2-bd43-6bb1e0ee27ef.png)
