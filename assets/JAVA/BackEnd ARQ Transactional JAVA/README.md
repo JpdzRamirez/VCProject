@@ -1,4 +1,22 @@
 # Backend for bank project💲📀 
+> Conocimientos estudiados y adquiridos en semillero de programación en ClearMinds
+## Conocimientos aplicados
+<details>
+	<summary> 
+		Conceptos Basicos
+	</summary>
+	<a>
+	<img src="https://user-images.githubusercontent.com/66846214/126988667-824247b9-1e46-4daa-90ff-64cbb9526673.png"/>
+	</a>
+</details>
+<details>
+	<summary> 
+		Conceptos Basicos
+	</summary>
+	<a>
+	<img src="https://user-images.githubusercontent.com/66846214/126988788-087e7dee-ef8a-4dfc-97be-3953d8bb9733.png"/>
+	</a>
+</details>
 
 ### Layout scheme🖼
 ![image](https://user-images.githubusercontent.com/66846214/126203596-92923612-4902-46d2-bd43-6bb1e0ee27ef.png)
