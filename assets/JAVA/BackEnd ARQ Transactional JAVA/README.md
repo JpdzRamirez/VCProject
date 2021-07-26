@@ -11,7 +11,7 @@
 </details>
 <details>
 	<summary> 
-		Conceptos Basicos
+		Composicion de objetos
 	</summary>
 	<a>
 	<img src="https://user-images.githubusercontent.com/66846214/126988788-087e7dee-ef8a-4dfc-97be-3953d8bb9733.png"/>
