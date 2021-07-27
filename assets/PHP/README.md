@@ -12,7 +12,8 @@ https://user-images.githubusercontent.com/66846214/126926685-abd2be38-2572-44a1-
 
 > Video explicativo -> Como configurar PHP🎬
 </div>
- 
+
+## Actividad 2 Colectores  
  <div>
   <p>
    ✔ Inicializamos con asignación de variables , uso de collectores tipo arrays e impreción de datos con PHP puro👌<br/>
