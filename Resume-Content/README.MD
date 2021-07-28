@@ -17,10 +17,11 @@
      <details>
         <summary>CV Resume</summary>
         <p align="center" id="resume">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/125709996-512f1406-788d-4953-afbd-f88398b14cc5.png"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/127366161-3e3f230f-9d88-446c-b860-7f53ee7d7db2.jpg"> <br>
       </p>
       </details></td>
   </tr>
+
   <tr>
     <td><strong>Pre-Work WSL Course for Windows </strong></td>
     <td><details>
