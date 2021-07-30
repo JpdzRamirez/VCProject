@@ -6,5 +6,4 @@ public class TipoPrestamo {
 	public static final String QUIROGRAFARIO="Q";
 	public static final String OTRO="O";
 	
-	
 }

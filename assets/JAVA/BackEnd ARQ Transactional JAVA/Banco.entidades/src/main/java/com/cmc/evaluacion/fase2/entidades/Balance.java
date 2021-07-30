@@ -2,8 +2,9 @@ package com.cmc.evaluacion.fase2.entidades;
 
 public class Balance {
 
+	
 	private String numeroCedula;
-	private double valorPrestamo;
+	private double valorPrestamos;
 	private double valorPagado;
 	private double saldo;
 	
@@ -15,11 +16,11 @@ public class Balance {
 	public void setNumeroCedula(String numeroCedula) {
 		this.numeroCedula = numeroCedula;
 	}
-	public double getValorPrestamo() {
-		return valorPrestamo;
+	public double getValorPrestamos() {
+		return valorPrestamos;
 	}
 	public void setValorPrestamos(double valorPrestamos) {
-		this.valorPrestamo = valorPrestamos;
+		this.valorPrestamos = valorPrestamos;
 	}
 	public double getValorPagado() {
 		return valorPagado;
@@ -33,6 +34,7 @@ public class Balance {
 	public void setSaldo(double saldo) {
 		this.saldo = saldo;
 	}
+	
 	
 	
 }

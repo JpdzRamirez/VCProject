@@ -6,116 +6,122 @@ import java.util.HashMap;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import com.cmc.evaluacion.fase2.commons.UncheckedException;
-
-
 public class Cartera {
 
 	private ArrayList<Cliente> clientes;
-	private Logger logger=LogManager.getLogger(Cartera.class);
-	private HashMap<String, ArrayList<Pago>> pagos;
-	
-	public Cartera(){
-		clientes=new ArrayList<Cliente>();
-		pagos =new HashMap<String,ArrayList<Pago>>();
-	}
+	private HashMap<String ,ArrayList<Pago>> pagos;
 	
 	
 	public void agregarPago(Pago _pago){
-		ArrayList<Pago> tempPagos=new ArrayList<Pago>();
-		if(pagos.get(_pago.getNumeroPrestamo())==null){
-			tempPagos.add(_pago);
-			pagos.put(_pago.getNumeroPrestamo(), tempPagos);
-		}else{
-			tempPagos=pagos.get(_pago.getNumeroPrestamo());
-			tempPagos.add(_pago);
-		}
 		
+		ArrayList<Pago> pagosTemp=new ArrayList<Pago>();
+		if(pagos.get(_pago.getNumeroPrestamo())==null){
+			pagosTemp.add(_pago);
+			pagos.put(_pago.getNumeroPrestamo(), pagosTemp);
+		}else{
+			pagosTemp=pagos.get(_pago.getNumeroPrestamo());
+			pagosTemp.add(_pago);
+		}
 	}
 	public ArrayList<Balance> calcularBalances(){
-		ArrayList<Balance> ListaBalanceTemp= new ArrayList<Balance>();
-		Balance balanceTemp=null;
-		ArrayList<Pago> tempPagos=new ArrayList<Pago>();
-		double valoresPrestadosTemp=0;
-		double valoresPagadoTemp=0;
-		double saldo=0;
-		for(Cliente _clienteTemp:clientes){
+		Balance balanceTemp;
+		ArrayList<Balance> listaBalances=new ArrayList<Balance>();
+		double sumaPrestamos;
+		double sumaPagos;
+		double saldo;
+		for (Cliente clienteTemp: clientes){
 			balanceTemp=new Balance();
-			valoresPrestadosTemp=0;
-			valoresPagadoTemp=0;
+			sumaPrestamos=0;
+			sumaPagos=0;
 			saldo=0;
-			for(Prestamo _prestamoTemp:_clienteTemp.getPrestamos()){
-				valoresPrestadosTemp+=_prestamoTemp.getMonto();
-				if(pagos.get( _prestamoTemp.getNumero())!=null){
-					tempPagos=pagos.get( _prestamoTemp.getNumero());
-					for(Pago _pago:tempPagos){
-						valoresPagadoTemp+=_pago.getMonto();
-					}
+			for(Prestamo prestamoTemp:clienteTemp.getPrestamos()){
+				sumaPrestamos+=prestamoTemp.getMonto();
+				for(Pago pagosTemp:consultarPagos(prestamoTemp.getNumero())){
+					sumaPagos+=pagosTemp.getMonto();
 				}
-				
 			}
-			saldo=valoresPrestadosTemp-valoresPagadoTemp;
-			balanceTemp.setValorPrestamos(valoresPrestadosTemp);
-			balanceTemp.setValorPagado(valoresPagadoTemp);
-			balanceTemp.setNumeroCedula(_clienteTemp.getCedula());
+			balanceTemp.setNumeroCedula(clienteTemp.getCedula());
+			balanceTemp.setValorPrestamos(sumaPrestamos);
+			balanceTemp.setValorPagado(sumaPagos);
+			saldo=sumaPrestamos-sumaPagos;
 			balanceTemp.setSaldo(saldo);
-			ListaBalanceTemp.add(balanceTemp);
+			listaBalances.add(balanceTemp);
 		}
-		return ListaBalanceTemp;
+		
+		return listaBalances;
 	}
-	public ArrayList<Pago> consultarPagos(String _prestamoCodigo){
-		ArrayList<Pago> tempPagos=new ArrayList<Pago>();
-		if(pagos.get(_prestamoCodigo)!=null){
-			tempPagos=pagos.get(_prestamoCodigo);
+	public ArrayList<Pago> consultarPagos(String prestamoCodigo){
+		ArrayList<Pago> pagosTemp=new ArrayList<Pago>();
+		if(pagos.get(prestamoCodigo)!=null){
+			pagosTemp=pagos.get(prestamoCodigo);
 		}
-		return tempPagos;
-	}
-	public void colocarPrestamo(Prestamo _prestamo){
-		Cliente temp=buscarCliente(_prestamo.getCedulaCliente());
-		temp.setPrestamos(_prestamo);
-		
-	}
-	public Cliente buscarCliente(String _cedula){
-		
-		try{
-			if(clientes!=null){
-				for(Cliente tempCliente: clientes){
-					if(tempCliente.getCedula().equals(_cedula)){
-						return tempCliente;
-					}
-				}
-				
-			}
-			else{
-				logger.info("No hay registros");
-				return null;
-			}
-		}catch(NullPointerException e){
-			logger.error("No hay clientes",e);
-			 throw new UncheckedException("No hay clientes registrados");
-		}
-		return null;
-		
+		return pagosTemp;
 	}
 	
-	public boolean agregarCliente(Cliente _cliente){
-		
-		if(buscarCliente(_cliente.getCedula())==null){
-			clientes.add(_cliente);
-			return true;
-		}else{
-			return false;
-		}
-		
+	private static Logger logger=LogManager.getLogger(Cartera.class);
+	
+	
+	
+	public Cartera() {
+		super();
+		this.clientes = new ArrayList<Cliente>();
+		this.pagos=new HashMap<String,ArrayList<Pago>>();
 	}
 
+
+
+
+
 	public ArrayList<Cliente> getClientes() {
-		return this.clientes;
+		return clientes;
+	}
+
+
+
+
+
+	public void setClientes(ArrayList<Cliente> clientes) {
+		this.clientes = clientes;
+	}
+
+
+
+
+
+	public Cliente buscarCliente(String _cedula){
+		
+		for (Cliente clienteTemp : clientes){
+			
+			if(clienteTemp.getCedula().equals(_cedula)){
+				
+				return clienteTemp;
+			}
+		}
+		
+		return null;
 	}
 	
 	
+	public boolean agregarCliente(Cliente _clienteTemp){
+		
+		if(this.buscarCliente(_clienteTemp.getCedula())==null){
+			this.clientes.add(_clienteTemp);
+			return true;
+		}else{
+			logger.warn("El cliente ya registrado");
+		}
 	
+		return false;
+	}
 	
-	
+	public void colocarPrestamo(Prestamo prestamo){
+		
+		Cliente clienteTemp=null;
+		clienteTemp=buscarCliente(prestamo.getCedulaCliente());
+		if(clienteTemp!=null){
+			clienteTemp.getPrestamos().add(prestamo);
+		}
+		
+	}
 	
 }
