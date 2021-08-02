@@ -3,7 +3,7 @@
 > En este repositorio trataremos todos los conceptos y fundamentos para desarrollar 
 
 <body>
-<div>
+
 <p>
 ✔ En primera instancia vamos a configurar el entorno de desarrollo para PHP  
  </p>
@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/66846214/126926685-abd2be38-2572-44a1-
 </div>
 
 ## Actividad 2 Colectores  
- <div>
+
   <p>
    ✔ Inicializamos con asignación de variables , uso de collectores tipo arrays e impreción de datos con PHP puro👌<br/>
   </p>
@@ -92,16 +92,14 @@ echo $s;
         <img  src="https://user-images.githubusercontent.com/66846214/127171923-e2a5ff47-023c-4fe3-bf1c-3d46a8e8d280.png">
 </p>
 </details>
-   
   </p>
- <div>
   
   
   ## Actividad 3 GET - POST - REQUEST // FORMS // FUNCTION  
  <div>
   <p>
    ✔ Inicializamos con la elaboración de un formulario basico en HTML PURO y asignamos la accion de envio al archivo php <code>Funciones.php</code> y el metodo en el form <code>POST</cod>👌<br/>
-  </p>
+ </p>
    <details>
    <summary>
     Ver Codigo 📑 (Dar click🖱 en la imagen para máximizar)
@@ -148,7 +146,7 @@ echo $s;
 ### Codigo PHP🐘 puro , archivo de funcion action="Funciones.php"
 ✔ Continuamos con la creación del codigo php para la recepción de los valores enviados en el formulario, en este caso creamos una función para recibir los valores enviados en por el metodo <code>POST</cod> y finalmente imprimimos el resultado con <code>echo</cod> 
 ```
-        <?php
+<?php
 
             function operaciones( $x, $y,$opcion){
                 $resultado;
@@ -179,16 +177,12 @@ echo $s;
             $seleccion=$_POST['combo'];
            $resultado= operaciones($primerNumero, $segundoNumero, $seleccion);
            echo $resultado. "<br/>"
-        ?>
+?>
 ```     
 <p align="center" id="Code_1">
         <img  src="https://user-images.githubusercontent.com/66846214/127929263-22d94dd2-e732-4f0e-b22a-6a632f0ee4d9.png">
 </p>
 </details>
-   
-  </p>
- <div>
- 
-
+</p> 
  </body>
 
