@@ -95,5 +95,100 @@ echo $s;
    
   </p>
  <div>
+  
+  
+  ## Actividad 3 GET - POST - REQUEST // FORMS // FUNCTION  
+ <div>
+  <p>
+   ✔ Inicializamos con la elaboración de un formulario basico en HTML PURO y asignamos la accion de envio al archivo php <code>Funciones.php</code> y el metodo en el form <code>POST</cod>👌<br/>
+  </p>
+   <details>
+   <summary>
+    Ver Codigo 📑 (Dar click🖱 en la imagen para máximizar)
+   </summary>
+    
+## Codigo HTML PURO📑
+```       
+<html>
+    <head>
+        <title>DESARROLLO WEB PHP</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Type"
+              content="text/html; charset=ISO-8859-
+              1" />
+    </head>
+    <body>
+
+        <form action="Funciones.php" method="POST">
+            <label>Primer numero</label>
+            <input type="text" name="numero1"/>
+            <br/>
+            <label>Segundo numero</label>
+            <input type="text" name="numero2"/>
+            <br/>
+            <!-- Lista de selección -->
+            Selecciona la opción deseada:
+            <select name="combo">
+                <!-- Opciones de la lista -->
+                <option value="sumar">Sumar</option>
+                <option value="restar" selected>Restar</option> <!-- Opción por defecto -->
+                <option value="multiplicar">Dividir</option>
+                <option value="dividir">Multiplicar</option>
+            </select>
+            <input type="submit" value="Enviar">
+        </form>
+
+
+
+    </body>
+</html>
+
+```      
+### Codigo PHP🐘 puro , archivo de funcion action="Funciones.php"
+✔ Continuamos con la creación del codigo php para la recepción de los valores enviados en el formulario, en este caso creamos una función para recibir los valores enviados en por el metodo <code>POST</cod> y finalmente imprimimos el resultado con <code>echo</cod> 
+```
+        <?php
+
+            function operaciones( $x, $y,$opcion){
+                $resultado;
+                switch ($opcion){
+                    
+                    case "sumar":
+                        $resultado=$x+$y;
+                        break;
+                    case "restar":
+                        $resultado=$x-$y;
+                        break;
+                    case "dividir":
+                        $resultado=$x/$y;
+                        break;
+                    case"multiplicar":
+                        $resultado=$x*$y;
+                        break;
+                    default:
+                       $resultado=$x+$y; 
+                   
+                }
+                return $resultado;
+            }
+            
+            //Envio de valores por REQUEST
+            $primerNumero=$_POST['numero1'];
+            $segundoNumero=$_POST['numero2'];
+            $seleccion=$_POST['combo'];
+           $resultado= operaciones($primerNumero, $segundoNumero, $seleccion);
+           echo $resultado. "<br/>"
+        ?>
+```     
+<p align="center" id="Code_1">
+        <img  src="https://user-images.githubusercontent.com/66846214/127929263-22d94dd2-e732-4f0e-b22a-6a632f0ee4d9.png">
+</p>
+</details>
+   
+  </p>
+ <div>
+ 
+
  </body>
 
