@@ -11,7 +11,7 @@
 </thead>
 <tbody>
   <tr>
-    <td rowspan="11"><strong>Study Constances</strong></td>
+    <td rowspan="13"><strong>Study Constances</strong></td>
    <td><strong>Resume</strong></td>
     <td>
      <details>
@@ -38,6 +38,24 @@
         <p align="center" id="PreWork_2">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/119886013-23fecc80-bef8-11eb-80f0-1d3761a0752f.jpg"> 
            <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>IT systems</strong></td>
+    <td><details>
+        <summary>Computer systems programming methodology</summary>
+        <p align="center" id="JAVA_3">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/130706327-03353edc-b46c-46ed-a24d-ba01e31d21d9.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+    <tr>
+   <td><strong>WEB Development</strong></td>
+    <td><details>
+        <summary>PHP WEB Development, Laravel</summary>
+        <p align="center" id="JAVA_3">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/130706483-14b273a2-be5b-429f-9505-8d3511f656a8.jpg"> <br>
       </p>
       </details></td>
   </tr>
@@ -73,10 +91,11 @@
     <td><details>
         <summary>Software architecture and programming for mobile devices</summary>
         <p align="center" id="JAVA_2">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/125174962-a4b71680-e18e-11eb-979c-a7768abc9367.png"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/130706082-add8528f-3592-4dc0-a8df-4da925e29ed7.jpg"> <br>
       </p>
       </details></td>
   </tr>
+
   <tr>
    <td><strong>JAVA Curse J2SE and collectors</strong></td>
     <td><details>
@@ -91,7 +110,7 @@
     <td><details>
         <summary>Development of Applications with Use of MYSQL Database, Mapping-NETWORKS, Servelets, Tomcat, MVC Arquitecture and Server Programming </summary>
         <p align="center" id="JAVA_4">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/121730955-f26c3080-cab5-11eb-919c-ba9867ee9020.png"> <br>
+        <img width="800"  src="http://www.solowrestling.com/img/spinner.gif"> <br>
       </p>
       </details></td>
   </tr>
@@ -404,7 +423,18 @@
    </td>
 </tr>
 <tr>
-
+<tr>
+<th scope="row">NSCL Standard 220501001</th>
+   <td>
+      <details>
+        <summary>Maintain computer equipment according to technical procedures ACT 2021</summary>
+        <p align="center" id="Tech_1">
+        <img width="400"  src="http://www.solowrestling.com/img/spinner.gif"> <br>
+      </p>
+      </details>
+   </td>
+</tr>
+  
 
 
 </tbody>
