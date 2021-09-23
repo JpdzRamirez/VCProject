@@ -3,12 +3,15 @@
  <ul align="center">
 
    <li type="none"><a href="https://github.com/JpdzRamirez/VCProject/blob/main/Resume-Content/README.MD#programming-knowledge">
-About programming knowledge</a></li>
+🎯Programming Knowledge</a></li>
 
-   <li type="none"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#--administrative-studies-----">Aboutknowledge in Administration.</a></li>
+   <li type="none"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#--administrative-studies-----">🎯 Knowledge in Administration.</a></li>
 
-   <li type="none"><a href="">Y este es otro diferente.</a></li>
+   <li type="none"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-work-experience----">🎯 Work Experience</a></li>
 
+   <li type="none"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-professional-studies----">🎯 Work Experience</a></li>
+   
+   <li type="none"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-technical-experience-in-computer-systems-and-repair---">🎯 Technical Knowledge</a></li>
  </ul>
 </div>
 
