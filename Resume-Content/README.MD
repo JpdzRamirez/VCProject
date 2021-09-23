@@ -1,6 +1,6 @@
 <div class="container" style=" widht=50%;" >
-  <h2 align="center"><strong>Index📑</strong></h2>
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px">
+  <h2 align="center"><strong>Index📑</strong><br><img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px"></h2>
+  
  <ul align="center">
 
    <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/blob/main/Resume-Content/README.MD#programming-knowledge">
@@ -8,11 +8,11 @@ Programming Knowledge</a></li>
 
    <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#--administrative-studies-----"> Knowledge in Administration.</a></li>
 
-   <li type=square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-work-experience----" Work Experience</a></li>
+   <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-work-experience----"> Work Experience</a></li>
 
-   <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-professional-studies----" Work Experience</a></li>
+   <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-professional-studies----"> Work Experience</a></li>
    
-   <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-technical-experience-in-computer-systems-and-repair---" Technical Knowledge</a></li>
+   <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-technical-experience-in-computer-systems-and-repair---"> Technical Knowledge</a></li>
  </ul>
 </div>
 
