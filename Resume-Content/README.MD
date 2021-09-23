@@ -1,5 +1,21 @@
 <H1 align="Center">  Programming studies <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="35px">   <br><img src="https://i.pinimg.com/originals/6c/7e/c7/6c7ec7cbb462babe074fe20ec479fbf8.gif" width="400px"> </H1> 
 
+<div class="container" style=" widht=50%;" >
+  <h2 align="center"><strong>Index📑</strong></h2>
+ <ul align="center">
+
+   <li type="none"><a href="#">Esto es un tipo de punto.</a></li>
+
+ <li type="none">Este es otro.</li>
+
+ <li type="none">Y este es otro diferente.</li>
+
+ </ul>
+</div>
+
+<br>
+
+## programming knowledge
 
 <table>
 <thead>
@@ -120,6 +136,15 @@
         <summary> OBJECT-ORIENTED JAVA PROGRAMMING</summary>
         <p align="center" id="JAVA_5">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/122602128-eb09d180-d037-11eb-9560-c63c09118397.png"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong> Object-Oriented Control Variables JAVA</strong></td>
+    <td><details>
+        <summary> OBJECT-ORIENTED JAVA PROGRAMMING</summary>
+        <p align="center" id="JAVA_5">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/134498915-2fc37249-c3db-4937-822d-67754a262a2d.jpg"> <br>
       </p>
       </details></td>
   </tr>
