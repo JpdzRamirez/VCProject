@@ -1,21 +1,22 @@
-<H1 align="Center">  Programming studies <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="35px">   <br><img src="https://i.pinimg.com/originals/6c/7e/c7/6c7ec7cbb462babe074fe20ec479fbf8.gif" width="400px"> </H1> 
-
 <div class="container" style=" widht=50%;" >
   <h2 align="center"><strong>Index📑</strong></h2>
  <ul align="center">
 
-   <li type="none"><a href="#">Esto es un tipo de punto.</a></li>
+   <li type="none"><a href="https://github.com/JpdzRamirez/VCProject/blob/main/Resume-Content/README.MD#programming-knowledge">
+About programming knowledge</a></li>
 
- <li type="none">Este es otro.</li>
+   <li type="none"><a href="">Aboutknowledge in Administration.</a></li>
 
- <li type="none">Y este es otro diferente.</li>
+   <li type="none"><a href="">Y este es otro diferente.</a></li>
 
  </ul>
 </div>
 
-<br>
 
-## programming knowledge
+<H1 align="Center">  Programming studies <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="35px">   <br><img src="https://i.pinimg.com/originals/6c/7e/c7/6c7ec7cbb462babe074fe20ec479fbf8.gif" width="400px"> </H1> 
+
+
+## Programming Knowledge
 
 <table>
 <thead>
@@ -27,7 +28,7 @@
 </thead>
 <tbody>
   <tr>
-    <td rowspan="13"><strong>Study Constances</strong></td>
+    <td rowspan="14"><strong>Study Constances</strong></td>
    <td><strong>Resume</strong></td>
     <td>
      <details>
@@ -98,7 +99,8 @@
     <td><details>
         <summary>Development of Applications with Graphical Interface and Handling of Events, Classes and JAVA Objects</summary>
         <p align="center" id="JAVA_1">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119887453-cc616080-bef9-11eb-9a97-1086425dd307.jpg"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119887453-cc616080-bef9-11eb-9a97-1086425dd307.jpg"> 
+       <br>
       </p>
       </details></td>
   </tr>
@@ -111,7 +113,6 @@
       </p>
       </details></td>
   </tr>
-
   <tr>
    <td><strong>JAVA Curse J2SE and collectors</strong></td>
     <td><details>
@@ -142,13 +143,13 @@
   <tr>
    <td><strong> Object-Oriented Control Variables JAVA</strong></td>
     <td><details>
-        <summary> OBJECT-ORIENTED JAVA PROGRAMMING</summary>
-        <p align="center" id="JAVA_5">
+        <summary> Control Variables JAVA PROGRAMMING</summary>
+        <p align="center" id="JAVA_6">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/134498915-2fc37249-c3db-4937-822d-67754a262a2d.jpg"> <br>
       </p>
       </details></td>
   </tr>
-  <tr>
+ <tr>
    <td><strong>Programming Base in WEB Desing</strong></td>
     <td><details>
         <summary>Programming Fundamentals in HTML5, CSS3 And JAVASCRIPT</summary>
@@ -209,6 +210,8 @@
    <br>
 
 <H1 align="Center">  Administrative Studies <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="85px"><img src="https://media.giphy.com/media/f4JSqg5rt40xAPG5Xm/giphy.gif" width="75px">   <br><img src="https://cdn.dribbble.com/users/85748/screenshots/657526/ivio_dribbble_02.gif" width="400px"> </H1> 
+
+## Administrative Knowledge
 
 <div class="table" id="Index_Administrative" >
     <table align="center" class="property" summary="All Stadys">
@@ -310,6 +313,8 @@
 <H1 align="Center"> Work Experience 
  <img src="https://media.giphy.com/media/QlZIHgXtKJy8iLcD4Q/giphy.gif" width="75px"><br>
  <img src="https://cdn.dribbble.com/users/537878/screenshots/3507453/desk-loop.gif" width="400px"> </H1> 
+
+## Technical Knowledge
 
 <div class="table" id="Index_Experience" >
     <table align="center" class="property" summary="All Stadys">
