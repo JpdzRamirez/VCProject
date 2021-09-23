@@ -1,6 +1,7 @@
-<div class="container" style=" widht=50%;" >
-  <h2 align="center"><strong>Index📑</strong><br><img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px"></h2>
-  
+<div class="box" style=" widht=50%;" >
+  <h2 align="center"><img src="https://media.giphy.com/media/pjsumXauAHxEBmk3oZ/giphy.gif?cid=790b76114a67d9dde1a05f16d5c49975f678e4938a185aaa&rid=giphy.gif&ct=ts" width="150px"></h2>
+ 
+<div class="box">
  <ul align="center">
 
    <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/blob/main/Resume-Content/README.MD#programming-knowledge">
@@ -14,6 +15,7 @@ Programming Knowledge</a></li>
    
    <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-technical-experience-in-computer-systems-and-repair---"> Technical Knowledge</a></li>
  </ul>
+  </div>
 </div>
 
 
