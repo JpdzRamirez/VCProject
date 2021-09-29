@@ -472,12 +472,13 @@ Programming Knowledge</a></li>
       <details>
         <summary>Maintain computer equipment according to technical procedures ACT 2021</summary>
         <p align="center" id="Tech_1">
-        <img width="400"  src="http://www.solowrestling.com/img/spinner.gif"> <br>
+        <img width="400"  src="https://user-images.githubusercontent.com/66846214/135277711-9ef2b6af-c330-44b2-8976-17ec190da7fc.jpg"> <br>
       </p>
       </details>
    </td>
 </tr>
-  
+
+
 
 
 </tbody>
