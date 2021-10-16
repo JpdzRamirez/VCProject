@@ -43,10 +43,11 @@ Programming Knowledge</a></li>
      <details>
         <summary>CV Resume</summary>
         <p align="center" id="resume">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/127366161-3e3f230f-9d88-446c-b860-7f53ee7d7db2.jpg"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/137592477-7a615fca-e9e1-402f-9495-4bcdd96d9a56.jpg"> <br>
       </p>
       </details></td>
   </tr>
+
 
   <tr>
     <td><strong>Pre-Work WSL Course for Windows </strong></td>
