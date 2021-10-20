@@ -14,7 +14,7 @@ Programming Knowledge</a></li>
 
    <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-work-experience----"> Work Experience</a></li>
 
-   <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-professional-studies----"> Work Experience</a></li>
+   <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-professional-studies----"> Profesional Studies</a></li>
    
    <li type="square"><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content#-technical-experience-in-computer-systems-and-repair---"> Technical Knowledge</a></li>
  </ul>
