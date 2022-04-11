@@ -338,6 +338,22 @@ Programming Knowledge</a></li>
    </tr>
    </thead>
    <tbody>
+     
+     
+     <tr>
+<th scope="row">Commercial Manager And Technological Manager</th>
+   <td>
+      <details>
+        <summary>AMERICAN COMPUTER S.A <strong> AT PRESENT</summary>
+        <p align="center" id="Work_1">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/162645944-6cf6de26-b0e4-4b6d-b106-3200fd2af04d.jpg"> <br>
+      </p>
+      </details>
+   </td>
+</tr>
+    
+
+     
    <tr>
 <th scope="row">IT Inspector</th>
    <td>
