@@ -340,7 +340,7 @@ Programming Knowledge</a></li>
    <tbody>
      
      
-     <tr>
+    
 <th scope="row">Commercial Manager And Technological Manager</th>
    <td>
       <details>
