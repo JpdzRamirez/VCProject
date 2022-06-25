@@ -1,7 +1,7 @@
 <div class="box" style=" widht=50%;" >
-<h1 align="center">  <a  href="https://github.com/JpdzRamirez" > <img src="https://user-images.githubusercontent.com/66846214/134519142-7c90312b-8761-4ef9-9304-8e013e68c082.gif" width="150px"><br>Home</a>
+<h1 align="center">  <a  href="https://github.com/JpdzRamirez" > <img src="https://user-images.githubusercontent.com/66846214/134519142-7c90312b-8761-4ef9-9304-8e013e68c082.gif" width="150"><br>Home</a>
 </h1>
-  <h2 align="center"><img src="https://media.giphy.com/media/pjsumXauAHxEBmk3oZ/giphy.gif?cid=790b76114a67d9dde1a05f16d5c49975f678e4938a185aaa&rid=giphy.gif&ct=ts" width="150px"></h2>
+  <h2 align="center"><img src="https://media.giphy.com/media/pjsumXauAHxEBmk3oZ/giphy.gif?cid=790b76114a67d9dde1a05f16d5c49975f678e4938a185aaa&rid=giphy.gif&ct=ts" width="150"></h2>
  
 
 <div class="box">
@@ -22,7 +22,7 @@ Programming Knowledge</a></li>
 </div>
 
 
-<H1 align="Center">  Programming studies <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35px"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="35px">   <br><img src="https://i.pinimg.com/originals/6c/7e/c7/6c7ec7cbb462babe074fe20ec479fbf8.gif" width="400px"> </H1> 
+<H1 align="Center">  Programming studies <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="35">   <br><img src="https://i.pinimg.com/originals/6c/7e/c7/6c7ec7cbb462babe074fe20ec479fbf8.gif" width="400"> </H1> 
 
 
 
@@ -219,7 +219,7 @@ Programming Knowledge</a></li>
 
    <br>
 
-<H1 align="Center">  Administrative Studies <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="85px"><img src="https://media.giphy.com/media/f4JSqg5rt40xAPG5Xm/giphy.gif" width="75px">   <br><img src="https://cdn.dribbble.com/users/85748/screenshots/657526/ivio_dribbble_02.gif" width="400px"> </H1> 
+<H1 align="Center">  Administrative Studies <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="85"><img src="https://media.giphy.com/media/f4JSqg5rt40xAPG5Xm/giphy.gif" width="75">   <br><img src="https://cdn.dribbble.com/users/85748/screenshots/657526/ivio_dribbble_02.gif" width="400"> </H1> 
 
 
 
@@ -321,8 +321,8 @@ Programming Knowledge</a></li>
 
 
 <H1 align="Center"> Work Experience 
- <img src="https://media.giphy.com/media/QlZIHgXtKJy8iLcD4Q/giphy.gif" width="75px"><br>
- <img src="https://cdn.dribbble.com/users/537878/screenshots/3507453/desk-loop.gif" width="400px"> </H1> 
+ <img src="https://media.giphy.com/media/QlZIHgXtKJy8iLcD4Q/giphy.gif" width="75"><br>
+ <img src="https://cdn.dribbble.com/users/537878/screenshots/3507453/desk-loop.gif" width="400"> </H1> 
 
 
 
@@ -417,8 +417,8 @@ Programming Knowledge</a></li>
 </div>
 
 <H1 align="Center"> Professional Studies 
- <img src="https://media.giphy.com/media/UOdoMz3baCENO/giphy.gif" width="75px"><br>
- <img src="https://static.wixstatic.com/media/6f12b8_56dfd62a41b049ef892a4c0ee6a7e39d~mv2.gif" width="400px"> </H1> 
+ <img src="https://media.giphy.com/media/UOdoMz3baCENO/giphy.gif" width="75"><br>
+ <img src="https://static.wixstatic.com/media/6f12b8_56dfd62a41b049ef892a4c0ee6a7e39d~mv2.gif" width="400"> </H1> 
 
 
 
@@ -456,8 +456,8 @@ Programming Knowledge</a></li>
 
 
 <H1 align="Center"> Technical experience in computer systems and repair
- <img src="https://media.giphy.com/media/1irGj8vnpt68Oq0kdu/giphy.gif" width="75px"><br>
- <img src="https://cdn.dribbble.com/users/2395254/screenshots/4962997/fix.gif" width="400px"> </H1> 
+ <img src="https://media.giphy.com/media/1irGj8vnpt68Oq0kdu/giphy.gif" width="75"><br>
+ <img src="https://cdn.dribbble.com/users/2395254/screenshots/4962997/fix.gif" width="400"> </H1> 
 
  
 
