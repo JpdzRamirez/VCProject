@@ -338,15 +338,15 @@ Programming Knowledge</a></li>
    </tr>
    </thead>
    <tbody>
-     
-     
+  
+
     
 <th scope="row">Commercial Manager And Technological Manager</th>
    <td>
       <details>
         <summary>AMERICAN COMPUTER S.A <strong> AT PRESENT</summary>
         <p align="center" id="Work_1">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/162645944-6cf6de26-b0e4-4b6d-b106-3200fd2af04d.jpg"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/190868510-68f5eb9f-a648-451e-b7e1-a7c58ae07bb9.jpg"> <br>
       </p>
       </details>
    </td>
@@ -360,7 +360,7 @@ Programming Knowledge</a></li>
       <details>
         <summary>Syestem Service <strong> 3 Years of Experience</summary>
         <p align="center" id="Work_1">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/121733212-d3bb6900-cab8-11eb-8aab-a2574302f8b6.jpg"> <br>
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/190868570-7e80c70a-3edc-4755-940c-c74d689160bc.jpg"> <br>
       </p>
       </details>
    </td>
