@@ -346,7 +346,7 @@ Programming Knowledge</a></li>
       <details>
         <summary>AMERICAN COMPUTER S.A <strong> AT PRESENT</summary>
         <p align="center" id="Work_1">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/190868510-68f5eb9f-a648-451e-b7e1-a7c58ae07bb9.jpg"> <br>
+        <img width="800"  src="-"> <br>
       </p>
       </details>
    </td>
