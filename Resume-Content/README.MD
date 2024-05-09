@@ -43,7 +43,7 @@ Programming Knowledge</a></li>
      <details>
         <summary>CV Resume</summary>
         <p align="center" id="resume">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/137592477-7a615fca-e9e1-402f-9495-4bcdd96d9a56.jpg"> <br>
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/VCProject/c8caa6fdf0f21b52308f2118421e4838e6499f6f/Resume-Content/HV.png"> <br>
       </p>
       </details></td>
   </tr>
