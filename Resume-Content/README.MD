@@ -37,7 +37,7 @@ Programming Knowledge</a></li>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="21"><strong>Study Constances</strong></td>
+    <td rowspan="22"><strong>Study Constances</strong></td>
    <td><strong>Resume</strong></td>
     <td>
      <details>
@@ -94,15 +94,6 @@ Programming Knowledge</a></li>
       </details></td>
   </tr>
   <tr>
-    <td><strong>Google-Cibersecurity</strong></td>
-    <td><details>
-        <summary>Cibersecurity</summary>
-        <p align="center" id="Security_1">
-        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/CiberSecurity.jpg"> <br>
-      </p>
-      </details></td>
-  </tr>
-  <tr>
     <td><strong>Informatic security</strong></td>
     <td><details>
         <summary>Computer Security Controls</summary>
@@ -127,6 +118,24 @@ Programming Knowledge</a></li>
         <summary>Google Kubernetes Engine Architecture</summary>
         <p align="center" id="Security_1">
         <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Google-Core-Infraestructure.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+    <td><strong>Google Core Infraestructure</strong></td>
+    <td><details>
+        <summary>Google Cloud Fundamentals: Core Infrastructure</summary>
+        <p align="center" id="Security_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Google-Core-Infraestructure.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+    <td><strong>AWS Infraestructure</strong></td>
+    <td><details>
+        <summary>Cloud AWS Basics</summary>
+        <p align="center" id="Security_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Cloud%20AWS%20BASICS_1.jpg"> <br>
       </p>
       </details></td>
   </tr>
