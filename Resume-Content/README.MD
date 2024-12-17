@@ -137,7 +137,7 @@ Programming Knowledge</a></li>
     <td><details>
         <summary>Development of Applications with Use of MYSQL Database, Mapping-NETWORKS, Servelets, Tomcat, MVC Arquitecture and Server Programming </summary>
         <p align="center" id="JAVA_4">
-        <img width="800"  src="http://www.solowrestling.com/img/spinner.gif"> <br>
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/SpringBoot.jpg"> <br>
       </p>
       </details></td>
   </tr>
