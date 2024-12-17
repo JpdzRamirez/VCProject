@@ -47,51 +47,58 @@ Programming Knowledge</a></li>
       </p>
       </details></td>
   </tr>
-
-
+  </tr>
   <tr>
-    <td><strong>Pre-Work WSL Course for Windows </strong></td>
+    <td><strong>Software and Data Engineering</strong></td>
     <td><details>
-        <summary>Prework WSL, GitHub and Visual Code</summary>
-        <p align="center" id="PreWork_1">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119885125-0715c980-bef7-11eb-8398-f9da592a16df.jpg"> <br>
+        <summary>SOFTWARE AND DATA ENGINEERING</summary>
+        <p align="center" id="Security_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IUDitital.jpg"> <br>
       </p>
       </details></td>
   </tr>
   <tr>
-   <td><strong>Pre-Work WSL Course for MAC-OS</strong></td>
+    <td><strong>SENA-Software Analysis and Development</strong></td>
     <td><details>
-        <summary>Prework WSL, GitHub and Visual Code</summary>
-        <p align="center" id="PreWork_2">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119886013-23fecc80-bef8-11eb-80f0-1d3761a0752f.jpg"> 
-           <br>
+        <summary>Software Analysis and Development</summary>
+        <p align="center" id="Security_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/SENA-ADSI.jpg"> <br>
       </p>
       </details></td>
   </tr>
   <tr>
-   <td><strong>IT systems</strong></td>
+    <td><strong>Google Data Analysis</strong></td>
     <td><details>
-        <summary>Computer systems programming methodology</summary>
-        <p align="center" id="JAVA_3">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/130706327-03353edc-b46c-46ed-a24d-ba01e31d21d9.jpg"> <br>
-      </p>
-      </details></td>
-  </tr>
-    <tr>
-   <td><strong>WEB Development</strong></td>
-    <td><details>
-        <summary>PHP WEB Development, Laravel</summary>
-        <p align="center" id="JAVA_3">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/130706483-14b273a2-be5b-429f-9505-8d3511f656a8.jpg"> <br>
+        <summary>Data Analysis</summary>
+        <p align="center" id="Security_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Data-%20Analysis.jpg"> <br>
       </p>
       </details></td>
   </tr>
   <tr>
-   <td><strong>Standard C++ Foundation</strong></td>
+    <td><strong>Google Professional IT Support</strong></td>
     <td><details>
-        <summary>C++ Certificate</summary>
-        <p align="center" id="C++">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119885887-00d41d00-bef8-11eb-9640-2420fdbf258e.jpg"> <br>
+        <summary>IT Support</summary>
+        <p align="center" id="Security_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IT%20SUPPORT.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+    <td><strong>Google-Cibersecurity</strong></td>
+    <td><details>
+        <summary>Cibersecurity</summary>
+        <p align="center" id="Security_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/CiberSecurity.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+    <td><strong>Google-Cibersecurity</strong></td>
+    <td><details>
+        <summary>Cibersecurity</summary>
+        <p align="center" id="Security_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/CiberSecurity.jpg"> <br>
       </p>
       </details></td>
   </tr>
@@ -104,6 +111,43 @@ Programming Knowledge</a></li>
       </p>
       </details></td>
   </tr>
+
+    <tr>
+   <td><strong>WEB Development</strong></td>
+    <td><details>
+        <summary>PHP WEB Development, Laravel</summary>
+        <p align="center" id="JAVA_3">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/130706483-14b273a2-be5b-429f-9505-8d3511f656a8.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+    <td><strong>Google Kubernetes</strong></td>
+    <td><details>
+        <summary>Google Kubernetes Engine Architecture</summary>
+        <p align="center" id="Security_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Google-Core-Infraestructure.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>IT systems</strong></td>
+    <td><details>
+        <summary>Computer systems programming methodology</summary>
+        <p align="center" id="JAVA_3">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/130706327-03353edc-b46c-46ed-a24d-ba01e31d21d9.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>Standard C++ Foundation</strong></td>
+    <td><details>
+        <summary>C++ Certificate</summary>
+        <p align="center" id="C++">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119885887-00d41d00-bef8-11eb-9640-2420fdbf258e.jpg"> <br>
+      </p>
+      </details></td>
+
   <tr>
    <td><strong>JAVA Curse</strong></td>
     <td><details>
@@ -123,15 +167,7 @@ Programming Knowledge</a></li>
       </p>
       </details></td>
   </tr>
-  <tr>
-   <td><strong>JAVA Curse J2SE and collectors</strong></td>
-    <td><details>
-        <summary>DEVELOPMENT OF APPLICATIONS WITH DATA MANAGEMENT IN MEMORY - JAVA </summary>
-        <p align="center" id="JAVA_3">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/124141151-c86fb380-da4e-11eb-941b-3e2e4d45769f.png"> <br>
-      </p>
-      </details></td>
-  </tr>
+
   <tr>
    <td><strong>JAVA Curse Spring Boot MYSQL Database</strong></td>
     <td><details>
@@ -159,12 +195,40 @@ Programming Knowledge</a></li>
       </p>
       </details></td>
   </tr>
+  <tr>
+   <td><strong>JAVA Curse J2SE and collectors</strong></td>
+    <td><details>
+        <summary>DEVELOPMENT OF APPLICATIONS WITH DATA MANAGEMENT IN MEMORY - JAVA </summary>
+        <p align="center" id="JAVA_3">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/124141151-c86fb380-da4e-11eb-941b-3e2e4d45769f.png"> <br>
+      </p>
+      </details></td>
+  </tr>
  <tr>
    <td><strong>Programming Base in WEB Desing</strong></td>
     <td><details>
         <summary>Programming Fundamentals in HTML5, CSS3 And JAVASCRIPT</summary>
         <p align="center" id="WEB_1">
         <img width="800"  src="https://user-images.githubusercontent.com/66846214/119887898-56112e00-befa-11eb-81ba-6591e81b51fa.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+    <td><strong>Pre-Work WSL Course for Windows </strong></td>
+    <td><details>
+        <summary>Prework WSL, GitHub and Visual Code</summary>
+        <p align="center" id="PreWork_1">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119885125-0715c980-bef7-11eb-8398-f9da592a16df.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
+   <td><strong>Pre-Work WSL Course for MAC-OS</strong></td>
+    <td><details>
+        <summary>Prework WSL, GitHub and Visual Code</summary>
+        <p align="center" id="PreWork_2">
+        <img width="800"  src="https://user-images.githubusercontent.com/66846214/119886013-23fecc80-bef8-11eb-80f0-1d3761a0752f.jpg"> 
+           <br>
       </p>
       </details></td>
   </tr>
@@ -435,12 +499,12 @@ Programming Knowledge</a></li>
    </thead>
    <tbody>
    <tr>
-<th scope="row">Industrial University of Santander</th>
+<th scope="row">Digital University Institution of Antioquia</th>
    <td>
       <details>
-        <summary>Industrial engineering <strong> 6 Semesters Formation</summary>
+        <summary>Software And Data Engineering <strong> 5 Semesters Formation</summary>
         <p align="center" id="Work_1">
-        <img width="800"  src="https://user-images.githubusercontent.com/66846214/121739134-cefab300-cac0-11eb-9d8b-6a36880c252f.png"> <br>
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IUDitital.jpg"> <br>
       </p>
       </details>
    </td>
