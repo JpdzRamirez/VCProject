@@ -25,8 +25,6 @@ Programming Knowledge</a></li>
 <H1 align="Center">  Programming studies <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="35"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="35">   <br><img src="https://i.pinimg.com/originals/6c/7e/c7/6c7ec7cbb462babe074fe20ec479fbf8.gif" width="400"> </H1> 
 
 
-
-
 <table>
 <thead>
 <tr>
@@ -66,15 +64,7 @@ Programming Knowledge</a></li>
       </p>
       </details></td>
   </tr>
-  <tr>
-    <td><strong>MinTIC Develop Course</strong></td>
-    <td><details>
-        <summary>Software Development</summary>
-        <p align="center" id="Security_1">
-        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/talento_tech_bootcamp.jpg"> <br>
-      </p>
-      </details></td>
-  </tr>
+
   <tr>
     <td><strong>Google Data Analysis</strong></td>
     <td><details>
