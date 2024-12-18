@@ -396,18 +396,14 @@ Programming Knowledge</a></li>
 <H1 align="Center"> Work Experience 
  <img src="https://media.giphy.com/media/QlZIHgXtKJy8iLcD4Q/giphy.gif" width="75"><br>
  <img src="https://cdn.dribbble.com/users/537878/screenshots/3507453/desk-loop.gif" width="400"> </H1> 
-
-
-   <div class="table" id="Index_Experience" >
-        <table align="center" class="property" summary="All Stadys">
-      
-       <tr>
-           <th scope="row">Certificates</th>
-           <td align="center"><strong class="title">References</strong></td>
+<div class="table" id="Index_Experience" >
+  <table align="center" class="property" summary="All Stadys">
+    <tr>
+      <th scope="row">Certificates</th>
+      <td align="center"><strong class="title">References</strong></td>
        </tr>
        </thead>
        <tbody>
-
     <tr>
     
         <th scope="row">Electronic Invoicing Software Support Specialist</th>
