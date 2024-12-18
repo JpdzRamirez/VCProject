@@ -411,20 +411,54 @@ Programming Knowledge</a></li>
    </tr>
    </thead>
    <tbody>
-  
 
+<th scope="row">Electronic Invoicing Software Support Specialist</th>
+   <td>
+      <details>
+        <summary>Softlogy S.A.S<strong>At Present</summary>
+        <p align="center" id="Work_1">
+        <img width="800"  src="https://vyaparapp.in/v/z/wp-content/uploads/2023/10/billing-software-for-an-electrical-store-image.webp"> <br>
+      </p>
+      </details>
+   </td>
+
+<th scope="row">Software Developer</th>
+   <td>
+      <details>
+        <summary>Taxsur SA<strong>4 Months Experience</summary>
+        <p align="center" id="Work_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Software_Developer.jpg"> <br>
+      </p>
+      </details>
+   </td>
+<th scope="row">IT Analyst</th>
+   <td>
+      <details>
+        <summary>ARINTIA GROUP S.A.S<strong>10 Months Experience</summary>
+        <p align="center" id="Work_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IT_Analyst.jpg"> <br>
+      </p>
+      </details>
+   </td>
+<th scope="row">Systems Assistant</th>
+   <td>
+      <details>
+        <summary>Petrocasinos SA<strong>3 Months Experience</summary>
+        <p align="center" id="Work_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Systems_Assistant.jpg"> <br>
+      </p>
+      </details>
+   </td>
     
 <th scope="row">Commercial Manager And Technological Manager</th>
    <td>
       <details>
-        <summary>AMERICAN COMPUTER S.A <strong> AT PRESENT</summary>
+        <summary>AMERICAN COMPUTER S.A <strong> 1 Year Experience</summary>
         <p align="center" id="Work_1">
-        <img width="800"  src="-"> <br>
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Systems_Technician.jpg"> <br>
       </p>
       </details>
    </td>
-</tr>
-    
 
      
    <tr>
