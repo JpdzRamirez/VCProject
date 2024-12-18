@@ -39,12 +39,12 @@ Programming Knowledge</a></li>
 <td><strong>Resume</strong></td>
 <td>
 <details>
-        <summary>CV Resume</summary>
-        <p align="center" id="resume">
-        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/HV_JeremyPedraza.jpg"> <br>
-      </p>
-      </details></td>
-  </tr>
+  <summary>CV Resume</summary>
+   <p align="center" id="resume">
+   <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/HV_JeremyPedraza.jpg"> <br>
+   </p>
+</details>
+</td>
   </tr>
   <tr>
     <td><strong>Software and Data Engineering</strong></td>
