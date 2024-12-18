@@ -67,6 +67,15 @@ Programming Knowledge</a></li>
       </details></td>
   </tr>
   <tr>
+    <td><strong>MinTIC Develop Course</strong></td>
+    <td><details>
+        <summary>Software Development</summary>
+        <p align="center" id="Security_1">
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/talento_tech_bootcamp.jpg"> <br>
+      </p>
+      </details></td>
+  </tr>
+  <tr>
     <td><strong>Google Data Analysis</strong></td>
     <td><details>
         <summary>Data Analysis</summary>
