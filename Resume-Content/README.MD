@@ -442,7 +442,6 @@ Programming Knowledge</a></li>
                     </details>
                 </td>
             </tr>
-
             <tr>
                 <th scope="row">Systems Assistant</th>
                 <td>
@@ -454,7 +453,6 @@ Programming Knowledge</a></li>
                     </details>
                 </td>
             </tr>
-
             <tr>
                 <th scope="row">Commercial Manager And Technological Manager</th>
                 <td>
@@ -466,7 +464,6 @@ Programming Knowledge</a></li>
                     </details>
                 </td>
             </tr>
-
             <tr>
                 <th scope="row">IT Inspector</th>
                 <td>
@@ -478,7 +475,6 @@ Programming Knowledge</a></li>
                     </details>
                 </td>
             </tr>
-
             <tr>
                 <th scope="row">Network Administrator</th>
                 <td>
@@ -490,7 +486,6 @@ Programming Knowledge</a></li>
                     </details>
                 </td>
             </tr>
-
             <tr>
                 <th scope="row">Business Manager</th>
                 <td>
@@ -502,7 +497,6 @@ Programming Knowledge</a></li>
                     </details>
                 </td>
             </tr>
-
             <tr>
                 <th scope="row">Technology Career</th>
                 <td>
