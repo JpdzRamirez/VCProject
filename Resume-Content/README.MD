@@ -36,6 +36,8 @@ Programming Knowledge</a></li>
 <tbody>
 <tr>
 <td rowspan="23"><strong>Study Constances</strong></td>
+</tr>
+<tr>
 <td><strong>Resume</strong></td>
 <td>
 <details>
