@@ -396,134 +396,92 @@ Programming Knowledge</a></li>
 <H1 align="Center"> Work Experience 
  <img src="https://media.giphy.com/media/QlZIHgXtKJy8iLcD4Q/giphy.gif" width="75"><br>
  <img src="https://cdn.dribbble.com/users/537878/screenshots/3507453/desk-loop.gif" width="400"> </H1> 
-<div class="table" id="Index_Experience" >
-  <table align="center" class="property" summary="All Stadys">
-    <tr>
-      <th scope="row">Certificates</th>
-      <td align="center"><strong class="title">References</strong></td>
-       </tr>
-       </thead>
-       <tbody>
-    <tr>
-    
-        <th scope="row">Electronic Invoicing Software Support Specialist</th>
-        <td>
-           <details>
-             <summary>Softlogy S.A.S<strong> At Present</summary>
-             <p align="center" id="Work_1">
-             <img width="800"  src="https://vyaparapp.in/v/z/wp-content/uploads/2023/10/billing-software-for-an-electrical-store-image.webp"> <br>
-           </p>
-           </details>
-        </td>
-    </tr>
-
+<table align="center" class="property" summary="All Stadys">
 <tr>
-    <th scope="row">Software Developer</th>
-       <td>
-          <details>
-            <summary>Taxsur SA <strong>4 Months Experience</summary>
-            <p align="center" id="Work_1">
-            <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Software_Developer.jpg"> <br>
-          </p>
-          </details>
-       </td>
+<th scope="col">Certificates</th>
+<th scope="col" align="center"><strong class="title">References</strong></th>
+</tr>
+<tbody>
+<tr>
+<th scope="row">Electronic Invoicing Software Support Specialist</th>
+<td>
+<details>
+<summary>Softlogy S.A.S <strong>At Present</strong></summary>
+<p align="center">
+<img width="800" src="https://vyaparapp.in/v/z/wp-content/uploads/2023/10/billing-software-for-an-electrical-store-image.webp">
+</p>
+</details>
+</td>
 </tr>
 <tr>
-    <th scope="row">IT Analyst</th>
-       <td>
-          <details>
-            <summary>ARINTIA GROUP S.A.S<strong>10 Months Experience</summary>
-            <p align="center" id="Work_1">
-            <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IT_Analyst.jpg"> <br>
-          </p>
-          </details>
-       </td>
+<th scope="row">Software Developer</th>
+<td>
+<details>
+<summary>Taxsur SA <strong>4 Months Experience</strong></summary>
+<p align="center">
+<img width="800" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Software_Developer.jpg">
+</p>
+</details>
+</td>
 </tr>
-        <tr>
-            <th scope="row">Systems Assistant</th>
-            <td>
-               <details>
-                 <summary>Petrocasinos SA<strong>3 Months Experience</summary>
-                 <p align="center" id="Work_1">
-                 <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Systems_Assistant.jpg"> <br>
-               </p>
-               </details>
-            </td>
-        </tr>
+<tr>
+<th scope="row">IT Analyst</th>
+<td>
+<details>
+<summary>ARINTIA GROUP S.A.S <strong>10 Months Experience</strong></summary>
+<p align="center">
+<img width="800" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IT_Analyst.jpg">
+</p>
+</details>
+</td>
+</tr>
+<tr>
+<th scope="row">Systems Assistant</th>
+<td>
+<details>
+<summary>Petrocasinos SA <strong>3 Months Experience</strong></summary>
+<p align="center">
+<img width="800" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Systems_Assistant.jpg">
+</p>
+</details>
+</td>
+</tr>
+<tr>
+<th scope="row">Commercial Manager And Technological Manager</th>
+<td>
+<details>
+<summary>AMERICAN COMPUTER S.A <strong> 1 Year Experience</strong></summary>
+<p align="center">
+<img width="800" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Systems_Technician.jpg">
+</p>
+</details>
+</td>
+</tr>
+<tr>
+<th scope="row">IT Inspector</th>
+<td>
+<details>
+<summary>Syestem Service <strong> 3 Years of Experience</strong></summary>
+<p align="center">
+<img width="800" src="https://user-images.githubusercontent.com/66846214/190868570-7e80c70a-3edc-4755-940c-c74d689160bc.jpg">
+</p>
+</details>
+</td>
+</tr>
+<tr>
+<th scope="row">Network Administrator</th>
+<td>
+<details>
+<summary>Hotel Houston Bucaramanga <strong> 7 Months Experience</strong></summary>
+<p align="center">
+<img width="800" src="https://user-images.githubusercontent.com/66846214/121734068-e08c8c80-cab9-11eb-8a15-9e6a1e2436ba.jpg">
+</p>
+</details>
+</td>
+</tr>
+<tr>
+<th scope="r
 
-    
-         <tr>
-            <th scope="row">Commercial Manager And Technological Manager</th>
-            <td>
-               <details>
-                 <summary>AMERICAN COMPUTER S.A <strong> 1 Year Experience</summary>
-                 <p align="center" id="Work_1">
-                 <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Systems_Technician.jpg"> <br>
-               </p>
-               </details>
-            </td>
-         </tr>
-    <tr>
-    <th scope="row">IT Inspector</th>
-       <td>
-          <details>
-            <summary>Syestem Service <strong> 3 Years of Experience</summary>
-            <p align="center" id="Work_1">
-            <img width="800"  src="https://user-images.githubusercontent.com/66846214/190868570-7e80c70a-3edc-4755-940c-c74d689160bc.jpg"> <br>
-          </p>
-          </details>
-       </td>
-    </tr>
-    <tr>
-    
-    
-    
-     <th scope="row">Network Administrator</th>
-       <td>
-           <details>
-            <summary>Hotel Houston Bucaramanga <strong> 7 Months Experience</strong></summary>
-            <p align="center" id="Work_2">
-            <img width="800"  src="https://user-images.githubusercontent.com/66846214/121734068-e08c8c80-cab9-11eb-8a15-9e6a1e2436ba.jpg"> <br>
-          </p>
-          </details>
-       </td>
-       </tr>
-    
-    
-    
-      <tr>
-          <th scope="row">Business manager</th>
-          <td>
-             <details>
-              <summary>SENA Corporate Relations, Tax regulator and Legal Monitoring<strong> 8 Months Experience </strong> </summary>
-            <p align="center" id="Work_3">
-            <img width="800"  src="https://user-images.githubusercontent.com/66846214/121734506-7cb69380-caba-11eb-835b-547e6c4f175d.jpg"> 
-               <br>
-          </p>
-          </details>
-         </td>
-          </tr>
-       <tr>
-    
-    
-    
-    
-    <th scope="row">Technology career</th>
-       <td>
-      <details>
-            <summary>Administrative Assistant, Periodic review of billing and management of accounting supports <strong> 5 Months Experience</strong></summary>
-            <p align="center" id="Career_1">
-            <img width="500"  src="https://user-images.githubusercontent.com/66846214/121735028-301f8800-cabb-11eb-9f47-9b2ce94025ac.jpg"> <br>
-          </p>
-          </details>
-          </td>
-    </tr>
-    
-    
-    
-    </tbody>
-    </table>
-    </div>
 
 
 <H1 align="Center"> Professional Studies 
