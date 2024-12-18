@@ -29,18 +29,18 @@ Programming Knowledge</a></li>
 
 <table>
 <thead>
-  <tr>
-    <th>Type</th>
-    <th>Certificates</th>
-    <th>References</th>
-  </tr>
+<tr>
+<th>Type</th>
+<th>Certificates</th>
+<th>References</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td rowspan="22"><strong>Study Constances</strong></td>
-   <td><strong>Resume</strong></td>
-    <td>
-     <details>
+<tr>
+<td rowspan="23"><strong>Study Constances</strong></td>
+<td><strong>Resume</strong></td>
+<td>
+<details>
         <summary>CV Resume</summary>
         <p align="center" id="resume">
         <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/HV_JeremyPedraza.jpg"> <br>
