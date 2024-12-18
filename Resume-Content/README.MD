@@ -35,7 +35,7 @@ Programming Knowledge</a></li>
 </thead>
 <tbody>
 <tr>
-<td rowspan="22"><strong>Study Constances</strong></td>
+<td rowspan="23"><strong>Study Constances</strong></td>
 <td><strong>Resume</strong></td>
 <td>
 <details>
