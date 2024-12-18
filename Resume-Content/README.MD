@@ -398,12 +398,12 @@ Programming Knowledge</a></li>
  <img src="https://cdn.dribbble.com/users/537878/screenshots/3507453/desk-loop.gif" width="400"> </H1> 
 <table align="center" class="property" summary="All Stadys">
 <tr>
-<th scope="col">Certificates</th>
+<th scope="col" style="width: 20%;">Certificates</th>
 <th scope="col" align="center"><strong class="title">References</strong></th>
 </tr>
 <tbody>
 <tr>
-<th scope="row">Electronic Invoicing Software Support Specialist</th>
+<th scope="row" style="width: 30%;">Electronic Invoicing Software Support Specialist</th>
 <td>
 <details>
 <summary>Softlogy S.A.S <strong>At Present</strong></summary>
@@ -414,7 +414,7 @@ Programming Knowledge</a></li>
 </td>
 </tr>
 <tr>
-<th scope="row">Software Developer</th>
+<th scope="row" style="width: 30%;">Software Developer</th>
 <td>
 <details>
 <summary>Taxsur SA <strong>4 Months Experience</strong></summary>
@@ -425,7 +425,7 @@ Programming Knowledge</a></li>
 </td>
 </tr>
 <tr>
-<th scope="row">IT Analyst</th>
+<th scope="row" style="width: 30%;">IT Analyst</th>
 <td>
 <details>
 <summary>ARINTIA GROUP S.A.S <strong>10 Months Experience</strong></summary>
@@ -436,7 +436,7 @@ Programming Knowledge</a></li>
 </td>
 </tr>
 <tr>
-<th scope="row">Systems Assistant</th>
+<th scope="row" style="width: 30%;">Systems Assistant</th>
 <td>
 <details>
 <summary>Petrocasinos SA <strong>3 Months Experience</strong></summary>
@@ -447,10 +447,10 @@ Programming Knowledge</a></li>
 </td>
 </tr>
 <tr>
-<th scope="row">Commercial Manager And Technological Manager</th>
+<th scope="row" style="width: 30%;">Commercial Manager And Technological Manager</th>
 <td>
 <details>
-<summary>AMERICAN COMPUTER S.A <strong> 1 Year Experience</strong></summary>
+<summary>AMERICAN COMPUTER S.A <strong>1 Year Experience</strong></summary>
 <p align="center">
 <img width="800" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Systems_Technician.jpg">
 </p>
@@ -458,10 +458,10 @@ Programming Knowledge</a></li>
 </td>
 </tr>
 <tr>
-<th scope="row">IT Inspector</th>
+<th scope="row" style="width: 30%;">IT Inspector</th>
 <td>
 <details>
-<summary>Syestem Service <strong> 3 Years of Experience</strong></summary>
+<summary>Syestem Service <strong>3 Years of Experience</strong></summary>
 <p align="center">
 <img width="800" src="https://user-images.githubusercontent.com/66846214/190868570-7e80c70a-3edc-4755-940c-c74d689160bc.jpg">
 </p>
@@ -469,10 +469,10 @@ Programming Knowledge</a></li>
 </td>
 </tr>
 <tr>
-<th scope="row">Network Administrator</th>
+<th scope="row" style="width: 30%;">Network Administrator</th>
 <td>
 <details>
-<summary>Hotel Houston Bucaramanga <strong> 7 Months Experience</strong></summary>
+<summary>Hotel Houston Bucaramanga <strong>7 Months Experience</strong></summary>
 <p align="center">
 <img width="800" src="https://user-images.githubusercontent.com/66846214/121734068-e08c8c80-cab9-11eb-8a15-9e6a1e2436ba.jpg">
 </p>
@@ -480,7 +480,30 @@ Programming Knowledge</a></li>
 </td>
 </tr>
 <tr>
-<th scope="r
+<th scope="row" style="width: 30%;">Business manager</th>
+<td>
+<details>
+<summary>SENA Corporate Relations, Tax regulator and Legal Monitoring <strong>8 Months Experience</strong></summary>
+<p align="center">
+<img width="800" src="https://user-images.githubusercontent.com/66846214/121734506-7cb69380-caba-11eb-835b-547e6c4f175d.jpg">
+</p>
+</details>
+</td>
+</tr>
+<tr>
+<th scope="row" style="width: 30%;">Technology career</th>
+<td>
+<details>
+<summary>Administrative Assistant, Periodic review of billing and management of accounting supports <strong>5 Months Experience</strong></summary>
+<p align="center">
+<img width="500" src="https://user-images.githubusercontent.com/66846214/121735028-301f8800-cabb-11eb-9f47-9b2ce94025ac.jpg">
+</p>
+</details>
+</td>
+</tr>
+</tbody>
+</table>
+
 
 
 
