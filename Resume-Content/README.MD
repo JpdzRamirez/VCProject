@@ -408,7 +408,7 @@ Programming Knowledge</a></li>
 <details>
 <summary>Softlogy S.A.S <strong>At Present</strong></summary>
 <p align="center">
-<img width="800" src="https://vyaparapp.in/v/z/wp-content/uploads/2023/10/billing-software-for-an-electrical-store-image.webp">
+<img width="800" src="https://jaffesoftware.com/images/screenshots/invoicenew.gif">
 </p>
 </details>
 </td>
