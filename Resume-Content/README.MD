@@ -51,7 +51,7 @@ Programming Knowledge</a></li>
     <td><details>
         <summary>SOFTWARE AND DATA ENGINEERING</summary>
         <p align="center" id="Security_1">
-        <img width="800"  src="#"> <br>
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IUDitital.jpg"> <br>
       </p>
       </details></td>
   </tr>
